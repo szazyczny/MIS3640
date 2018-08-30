@@ -19,7 +19,7 @@ print('Hello, Sarah!')
 #print(2++2)
 
 #E1 Q4
-print(02)
+#print(02)
 
 #E1 Q5
-#print(2 4)
+print(2 4)
