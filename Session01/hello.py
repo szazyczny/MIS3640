@@ -6,7 +6,7 @@ print('Hello, Sarah!')
 #print'Hello, Sarah! 
 
 #E1 Q2a
-print('Hello, Sarah!)
+#print('Hello, Sarah!)
 #E1 Q2b
 print(Hello, Sarah!)
 #E1 Q2c
