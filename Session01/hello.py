@@ -1,9 +1,9 @@
 print('Hello, Sarah!')
 
 #E1 Q1a
-print('Hello, Sarah!' 
+#print('Hello, Sarah!' 
 #E1 Q1b
-print'Hello, Sarah! 
+#print'Hello, Sarah! 
 
 #E1 Q2a
 print('Hello, Sarah!)
