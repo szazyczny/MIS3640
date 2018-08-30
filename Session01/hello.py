@@ -8,12 +8,12 @@ print('Hello, Sarah!')
 #E1 Q2a
 #print('Hello, Sarah!)
 #E1 Q2b
-print(Hello, Sarah!)
+#print(Hello, Sarah!)
 #E1 Q2c
-pint('Hello, Sarah!')
+#pint('Hello, Sarah!')
 
 #E1 Q3a
-print(-2)
+#print(-2)
 #E1 Q3b
 print(+2)
 #E1 Q3c
