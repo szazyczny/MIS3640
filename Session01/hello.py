@@ -16,7 +16,7 @@ print(-2)
 #E1 Q3a
 print(+2)
 #E1 Q3b
-#print(2++2)
+print(2++2)
 
 #E1 Q4
 #print(02)
