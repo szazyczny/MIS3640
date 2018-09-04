@@ -13,10 +13,10 @@
 # name = input('Please enter your name:')
 # print('Hello,', name)
 
-# message = "I learned something cool today"
-# n = 100
-# pi = 3.14
-# print(n) #n = 100
+message = "I learned something cool today"
+n = 100
+pi = 3.14
+print(n) #n = 100
 
 # #DYNAMIC LANGUAGE - variables can be redefined
 # a = 123 # a is an integer
@@ -49,9 +49,17 @@
 
 #print('Hello, {}'.format('world')) #i want a string with hello, {placeholder} then .format means running function on string - replaces {} with word
 
-# name = 'python'
-# print('Hello, {}'.format(name))
+#name = 'python'
+#print('Hello, {}'.format(name))
 
 #print('Congratulations, {:s}, you won {:d}th Academy award.'.format(name, 90))
+# s means string, d means integer
 
 #print('Pi equals {}'.format(3.14159265))
+#print('Pi equals {:010.2f}'.format(3.14159265))
+# f means floating or decimal
+
+#print('Growth rate: {:.2f}%'.format(2.5))
+
+#print('Coordinates of Babson: {lat}, {lon}'.format(lon='71.27W', lat='42.30N'))
+# order doesnt matter
