@@ -1,3 +1,5 @@
+#SESSION 1: PRINTING CALCULATIONS
+
 #print(8 + 30 + 2018)
 
 #E2 Q1 - how many seconds = 2562 seconds
