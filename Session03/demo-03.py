@@ -56,4 +56,35 @@ else:
 # Write a script that reads the current time and converts it to a time of day in hours, minutes, and seconds, plus the number of days since the epoch.
 
 import time
-time.time() #time since epoch /60/60 24 seconds
+
+epochsec = (time.time()) #time since epoch seconds -> make seconds into days 
+print(epochsec))
+epochmin = (epochsec / 60)
+print(epochmin)
+epochhours = (epochsec / 60 / 60)
+print(epochhours)
+epochdays = (epochsec / 60 / 60 / 24)
+print(epochdays)
+type(epochdays) 
+
+
+#current time
+currenttime = time.localtime(time.time())
+print(currenttime)
+
+localtime = time.asctime( time.localtime(time.time()) )
+print('Local current time :', localtime)
+# print('Local current time : {:%x}' .format(localtime))
+# print('Local current time : {:%h:%m:%s}' .format(localtime))
+# print(datetime.datetime.today().hour)
+# '...{:02d}:{:02d}:{:02d}...'.format(h, m, s)
+
+import datetime
+h = datetime.datetime.today().hour
+print(h)
+m = datetime.datetime.today().minute
+print(m)
+s = datetime.datetime.today().second
+print(s)
+
+print('The local current time is {:02d}:{:02d}:{:02d}, and it has been {:.0f} days since the epoch.' .format(h, m, s, epochdays))
