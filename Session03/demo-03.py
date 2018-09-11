@@ -58,7 +58,7 @@ else:
 import time
 
 epochsec = (time.time()) #time since epoch seconds -> make seconds into days 
-print(epochsec))
+print(epochsec)
 epochmin = (epochsec / 60)
 print(epochmin)
 epochhours = (epochsec / 60 / 60)
@@ -88,3 +88,11 @@ s = datetime.datetime.today().second
 print(s)
 
 print('The local current time is {:02d}:{:02d}:{:02d}, and it has been {:.0f} days since the epoch.' .format(h, m, s, epochdays))
+
+
+#SOLUTION
+import time
+print(time.time())
+current = time.time()
+second = current % 60
+minutes = (current//60) % 60
