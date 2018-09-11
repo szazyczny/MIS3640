@@ -23,7 +23,3 @@ print(my_abs(4))
 #then return the absolute value of any number. 
 # You will need a built-in function isinstance() https://docs.python.org/3/library/functions.html#isinstance.
 
-
-#Define a function quadratic(a, b, c) to solve a quadratic equation: ax2+bx+c=0
-def quadratic (a, b, c): 
-    pass    #pass function does nothing, needs to be modified
