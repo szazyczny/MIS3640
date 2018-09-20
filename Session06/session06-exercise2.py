@@ -1,4 +1,5 @@
 #EXERCISE 2
+#know how to write FACTORIAL AND FIBONACCI RECURSIONS
 
 #2.1 Write a program, factorial.py to compute a factorial of an integer, n.
 # fact(n) = fact(n-1) * n
@@ -10,7 +11,7 @@ def fact(n):
         return 1
     else: return fact(n-1)*n
 
-print(fact(3))
+print(fact(10))
 
 #2.2 Write a program, fibonacci.py to compute the Fibonacci number of an integer , n.
 #fibonacci numbers: 1, 1, 2, 3, 5, 8... find 6th fibonacci
@@ -43,6 +44,7 @@ print(fibonacci(6)) #equal to 8
 # Otherwise, gcd(a, b) is the same as gcd(b, a % b)
 # Write a function gcdRecur(a, b) that implements this idea recursively. This function takes in two positive integers and returns one integer.
 
+#using Euclid algorithm
 
 def gcdRecur(a, b):
     '''
