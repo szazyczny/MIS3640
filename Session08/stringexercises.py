@@ -123,6 +123,8 @@ def any_lowercase1(s):
             return True
         else:
             return False
+
+any_lowercase1('Babson')
         
 def any_lowercase2(s):
     for c in s:
@@ -153,5 +155,26 @@ def any_lowercase5(s):
 # integer as parameters, and returns a new string that contains the
 #  letters from the original string rotated by the given amount.
 
-def rotate_word(string, integer)
-    for 
+
+
+
+
+
+#DEBUGGING
+#ADD BREAK POINTS TO CHECK
+def is_reverse(word1, word1):
+    if len(word1) != len(word2)
+        return False
+
+    i = 0
+    j = len(word2 - 1)
+
+    while j > 0:
+        #print(word1[i], word2[j])    MESSY DEBUGGING - USE BREAK POINTS
+        #print(word1[i])
+        #print(word2[j])
+        if word1[i] != word2[j]:
+            return False
+        i = i + 1
+        j = j - 1
+    return True
