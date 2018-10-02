@@ -47,13 +47,24 @@ def has_no_e(word):
 #Modify your program from the previous section to print only the 
 # words that have no “e” and compute the percentage of the words 
 # in the list that have no “e”.
+total_words = 113806
+
 def has_no_e_calc(): 
+    counter = 0
     for line in fin:
         word = line.strip()
-        if 'e' not in word:
-            print(word)
+        #if 'e' not in word:
+            #print(word)
+        if has_no_e(word):
+            counter += 1
 
-#print(has_no_e_calc()) 
+    print(counter)
+    #print('{:.4f}% of words have no "e."'.format((counter/total_words))*100))
+
+#has_no_e_calc()
+#should be 33%
+
+#print(has_no_e_calc())  
 
 def avoids(word, forbidden):
     """
@@ -71,6 +82,7 @@ def avoids(word, forbidden):
 
 # print(avoids('Babson', 'ab')) #False
 # print(avoids('College', 'ab')) #True
+# print(avoids('Bason', 'ab'))
 
 
 def uses_only(word, available):
@@ -166,3 +178,51 @@ def is_abecedarian_while(word):
 
 # print(is_abecedarian('abs')) #True
 # print(is_abecedarian('college')) #False
+
+
+
+
+#Try this after class, find 62 letters
+def find_words_only_using_planet():
+    fin = open('session09/words.txt')
+    number_of_words_using_planet = 0
+    for line in fin:
+        word = line.strip()
+        if uses_only(word, 'planet'):
+            print(word)
+            number_of_words_using_planet += 1
+    return number_of_words_using_planet
+
+
+#print('Number of words using only letters from "planet":',
+      #find_words_only_using_planet())
+
+def uses_all2(word, required):
+    return uses_only(required, word)
+
+def uses_all_vowels():
+    counter = 0
+    for line in fin:
+        word = line.strip()
+        if uses_all2(word, 'aeiou'):
+            counter += 1
+    return counter
+
+#print(uses_all_vowels())
+
+
+def find_words_no_vowels():
+    fin = open('session09/words.txt')
+    counter_no_vowel = 0
+    counter_total = 0
+    for line in fin:
+        counter_total += 1
+        word = line.strip()
+        if avoids(word, 'aeiouy'):
+            print(word)
+            counter_no_vowel += 1
+    return counter_no_vowel/counter_total
+
+
+print('The percentage of the words with vowel letters is {:.2f}%.'.format(
+    find_words_no_vowels()*100))
