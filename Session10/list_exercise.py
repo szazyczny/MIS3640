@@ -7,25 +7,42 @@ def nested_sum(t):
     >>> nested_sum(t)
     21
     """
-    i = 0
-    for i in t:
-    nestsum = (sum(t[i+1])
-    return nestsum
+    total = 0
+    for nested in t:
+        total += sum(nested)
+    return total
 
 t = [[1, 2], [3], [4, 5, 6]]
+# first = 3
+# second = 3 + 3
+# third = 6 + 15
+# total = 21
 nested_sum(t)
 
-
+#dont change original list in for loop
 def cumsum(t):
     """Computes the cumulative sum of the numbers in t.
     t: list of numbers
     returns: list of numbers
     Expected output:
-    >>> t = [1, 2, 3]
-    >>> cumsum(t)
+    >>> t = [1, 2, 3] input is list of numbers
+    >>> cumsum(t) output is LIST
     [1, 3, 6]
     """
-    return
+    total = 0
+    res = [] #create new empty list
+    for x in t:
+        total += x #add next number in list
+        res.append(total) #every iteration append current sum 
+        # print('current list:')
+        # print(res)
+    return res
+#replace each number in list with current sum
+
+t = [1, 2, 3]
+cumsum(t)
+# first = 1, second 1+2 = 3, third 3+3 = 6
+# output is list [1, 3, 6]
 
 
 
@@ -38,7 +55,10 @@ def middle(t):
     >>> middle(t)
     [2, 3]
     """
-    return
+    return t[1:-1] #this is a new list
+
+t = [1, 2, 3, 4]
+middle(t)
 
 
 def chop(t):
@@ -51,7 +71,16 @@ def chop(t):
     >>> t
     [2, 3]
     """
-    return
+    # del and pop work
+    del t[0]
+    del t[-1]
+    # t.pop(0)
+    # t.pop(-1)
+    return None
+
+t = [1, 2, 3, 4]
+chop(t)
+t
 
 
 def is_sorted(t):
@@ -64,7 +93,22 @@ def is_sorted(t):
     >>> is_sorted(['b', 'a'])
     False
     """
-    return
+    # before = t[0]
+    # for c in t:
+    #     if c < before:
+    #         return False
+    #     before = c
+    # return True
+    return t == sorted(t)
+
+is_sorted([1, 2, 2])
+is_sorted(['b', 'a'])
+
+a = [745, 1, 2244, 4, 224, 34379]
+sorted(a) #sorts 
+a # not changed
+a.sort() #nothing happens, sorts internally
+a #a is changed
 
 
 def is_anagram(word1, word2):
@@ -80,9 +124,13 @@ def is_anagram(word1, word2):
     >>> is_anagram('different', 'letters')
     False
     >>> is_anagram([1, 2, 2], [2, 1, 2])
-    Ture
+    True
     """
-    return
+    return sorted(word1) == sorted(word2)
+
+is_anagram('stop', 'pots')
+is_anagram('different', 'letters')
+is_anagram([1, 2, 2], [2, 1, 2])
 
 
 def has_duplicates(s):
@@ -95,7 +143,13 @@ def has_duplicates(s):
     >>> print(has_duplicates('abba'))
     True
     """
-    return
+    for i in s:
+        if s.count(i) > i:
+            return True
+    return False
+
+# print(has_duplicates('cba'))
+# print(has_duplicates('abba'))
 
 
 def has_adjacent_duplicates(s):
@@ -110,7 +164,14 @@ def has_adjacent_duplicates(s):
     >>> print(has_adjacent_duplicates('abbc'))
     True
     """
-    return
+    for i in range(len(s)-1):
+        if s[i] == s[i+1]:
+            return True
+    return False
+
+print(has_adjacent_duplicates('cba'))
+print(has_adjacent_duplicates('abca'))
+print(has_adjacent_duplicates('abbc'))
 
 
 def main():

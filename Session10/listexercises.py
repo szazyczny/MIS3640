@@ -50,18 +50,39 @@ print(c)    #prints both lists in one single list [1, 2, 3, 4, 5, 6]
 t = ['a', 'b', 'c', 'd', 'e', 'f']
 #How do we get ['b', 'c']? ['a', 'b', 'c', 'd']? ['d', 'e', 'f'] ? 
 # The entire list?
+t[1:3]  # ['b', 'c']
+t[0:4]  # ['a', 'b', 'c', 'd']
+t[:4]   # ['a', 'b', 'c', 'd']
+t[-3:]  # ['d', 'e', 'f']
+t[3:]   # ['d', 'e', 'f']
+t[::2]  # ['b', 'd', 'f']
+t[1::2] #['b', 'd', 'f']
+t[::3] #start from beginning, then 3
+#first one is where to start :defaultend: step length
 
 
 t = ['a', 'b', 'c', 'd', 'e', 'f']
 #t[1:3] = ['x', 'y']     #replaces index 1 and 2, prints ['a', 'x', 'y', 'd', 'e', 'f']
 #print(t)
 
+t[1] = ['g', 'h']
+t
+
 #EXERCISE 2
 #Read the documentation of the list methods at https://docs.python.org/3/tutorial/datastructures.html#more-on-lists. You might want to experiment with some of them to make sure you understand how they work. append, extend and sort are particularly useful.
+#how can we combine 2 lists together 
+t = ['a', 'b', 'c', 'd', 'e', 'f']
+x = ['g', 'h']
+#t.append(x)
+t.extend(x) #combines the lists
+t
+
 
 # Example of list methods
+#append adds argument as an element
 t = ['a', 'b', 'c']
-#t.append('d')
+t.append('d')
+#print(t)       #adds d to list
 
 #EXERCISE 3
 #Finish list_exercises.py
