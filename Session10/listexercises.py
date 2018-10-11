@@ -109,19 +109,19 @@ t = ['a', 'b', 'c', 'd']
 x = t.pop(1)
 # pop modifies the list and returns 
 # the element that was removed. 
-#print(x)
-#print(t)
+# print(x)
+# print(t)
 
 
 x = t.pop()
 # If you don’t provide an index, 
 # it deletes and returns the last element.
-#print(x)
-#print(t)
+# print(x)
+# print(t)
 
 t = ['a', 'b', 'c', 'd', 'e']
 del t[1:3]
-#print(t)
+# print(t)
 
 t = ['a', 'b', 'c']
 t.remove('b')
@@ -131,11 +131,11 @@ t.remove('b')
 #LISTS AND STRINGS
 team = 'Patriots'
 t = list(team)
-#print(t)
+# print(t)
 
 team = 'New England Patriots'
 t = team.split()
-#print(t)
+# print(t)
 
 s = 'spam-spam-spam'
 delimiter = '-'
