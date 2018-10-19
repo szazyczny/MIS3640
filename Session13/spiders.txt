@@ -1,0 +1,2354 @@
+The Project Gutenberg EBook of The Structure and Habits of Spiders, by 
+James Henry Emerton
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Structure and Habits of Spiders
+
+Author: James Henry Emerton
+
+Release Date: October 16, 2018 [EBook #58111]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK STRUCTURE AND HABITS OF SPIDERS ***
+
+
+
+
+Produced by Paul Marshall, Bryan Ness and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+
+
+
+
+
+
+
+
+                                  THE
+                         STRUCTURE AND HABITS
+                                  OF
+                               SPIDERS.
+
+                                  BY
+                            J. H. EMERTON.
+
+                            [Illustration]
+
+                            _ILLUSTRATED._
+
+                                BOSTON:
+                   S. E. CASSINO & CO., PUBLISHERS.
+                                 1883.
+
+                              COPYRIGHT.
+                           BY S. E. CASSINO.
+                                 1878.
+
+                            _Electrotyped_
+                       _By C. J. Peters & Son,_
+                               _Boston._
+
+
+
+
+PREFACE.
+
+
+The object of this book is to give a plain account of the best known
+habits of spiders, and as much of their anatomy and classification as
+is necessary to understand these habits. The portion on the spinning
+and flying habits is copied chiefly from Blackwall and Menge; that
+on the trap-door spiders from Moggridge; and the habits of Nephila
+and Hyptiotes, from Wilder. The observations of these authors have
+been repeated as far as possible, and some changes and additions made
+to their accounts of them. The numerous stories of deadly poison,
+supernatural wisdom, and enormous size and strength of spiders, have
+been omitted as doubtful. Several cuts from the papers of Professor
+Wilder have been repeated by favor of the author and publishers. Most
+of the figures are, however, new, and engraved by photography from my
+own drawings.
+
+
+
+
+CONTENTS.
+
+
+                              CHAPTER I.
+                                                                   PAGE
+    Anatomy and Classification.—External Parts of a Spider.—Feet.
+      —Palpi and Maxillæ.—Mandibles.—Breathing-Holes.—Epigynum.
+      —Spinnerets.—Eyes.—Colors and Markings.—Internal Organs.—
+      Intestine.—Heart.—Breathing-Organs.—Nervous System.—
+      Poison Glands.—Families of Spiders                            11
+
+                              CHAPTER II.
+
+    Eating and Biting.—Structure of the Mandibles.—Mouth.—Eating
+      Insects.—Biting.—Experiments on Poison of Spiders.
+       —Tame Spiders                                                32
+
+                             CHAPTER III.
+
+    Spinning-Habits.—Spinnerets.—Spinning-Glands.—Beginning
+      of a Thread.—Holes and Nests.—Burrows of Lycosa.—Trap-door
+      Nests.—Tubes and Nests of Drassidæ.—Webs of Agalena.—Webs
+      of Linyphia and Theridion.—Spiders living in Webs made by
+      Others.—Round Webs.—Epeira Vulgaris.—Zilla.—Nephila.—
+      Habits in the Web.—Curled Webs.—Cribellum and Calamistrum.
+      —Webs of Amaurobius.—Regular Webs of Dictyna.—Triangle
+      Web.—Round Webs with Curled Thread                            38
+
+                              CHAPTER IV.
+
+    Growth of Spiders.—Differences between Male and Female.—
+      Differences between Old and Young.—Male and Female of Nephila
+      and Argiope.—Heads of Male Erigone.—Palpal Organs.—Epigynum.
+      —Use of Palpal Organs and Epigynum in Various Spiders.—Laying
+      Eggs.—Cocoons of Drassus, Attus, and Epeira.—Cocoons of
+      Argyrodes and Argiope.—Care of the Cocoon.—Parasites.—Growth
+      in the Egg.—Hatching.—Habits of Young Spiders.—Moulting.
+      —Habitats of Spiders.—Distribution of Spiders                86
+
+
+
+
+LIST OF ILLUSTRATIONS.
+
+
+                                                            PAGE
+     1. Under Side of Epeira Vulgaris                         13
+     2. Foot of Epeira Vulgaris                               14
+     3. Foot of Attus Mystaceus                               15
+     4. Upper Side of Epeira Vulgaris                         18
+     5. Section of Epeira Vulgaris                            20
+     6. Mygale Hentzii                                        24
+     7. Dysdera Interrita and Eyes                            26
+     8. Drassus                                               26
+     9. Agalena Nævia                                         27
+    10. Lycosa and Eyes                                       28
+    11. Salticus and Eyes                                     29
+    12. Thomisus and Eyes                                     30
+    13. Theridion                                             31
+    14. Mandibles of Epeira Vulgaris. Front View              33
+    15. Claw of Mandible                                      33
+    16. Spinnerets of Epeira Vulgaris                         39
+    17. Single Spinning Tube                                  40
+    18. Spinning-Glands                                       40
+    19. Spinneret of Prosthesima                              41
+    20. Spinneret of Agalena with some of the hairs removed   41
+    21. End of Thread                                         42
+    22. Trap-door Nests. Copied from Moggridge                47
+    23. Nest of Dolomedes                                     52
+    24. Web of Agalena                                        55
+    25. Web of Linyphia Marmorata                             57
+    26. Web of Linyphia Communis                              59
+    27. Pholcus swinging                                      61
+    28. Round Web of Epeira Vulgaris                          62
+    29. Web of Zilla                                          65
+    30. Web of Nephila Plumipes. From Wilder                  66
+    31. Part of Web of Nephila, to show the smooth threads.
+          From Wilder                                         67
+    32. Epeira Spinea                                         69
+    33. Spinnerets of Amaurobius                              72
+    34. Calamistrum of Amaurobius                             73
+    35. Dictyna spinning Curled Web                           73
+    36. Part of Web of Amaurobius                             74
+    37. Part of Web of Dictyna, showing regular arrangement
+          of threads                                          75
+    38. Unfinished Web of Triangle Spider. From Wilder        76
+    39. Finished Web of Triangle Spider, and Spider holding
+          the Web. From Wilder                                78
+    40. Young Lycosa flying                                   81
+    41. Flying Spider with a Thread attached to the Ground    84
+    42. Large Attus flying by a Brush of Threads              85
+    43. Male and Female Nephila Plumipes. From Wilder,
+          in Proceedings Boston Society Natural History       78
+    44, 45. Heads of Males of Several Species of Erigone  88, 89
+    46. Palpal Organ of Mygale                                89
+    47. Palpal Organ of Epeira                                90
+    48. Palpal Organ of Theridion                             91
+    49. Epigynum of Epeira Riparia                            92
+    50. Epigynum of Theridion                                 93
+    51. Epigynum of Theridion                                 94
+    52. Copulation of Lycosa                                  95
+    53. Copulation of Linyphia                                96
+    54. Copulation of Agalena                                 96
+    55. Copulation of Epeira Riparia                          97
+    56. Drassus laying Eggs                                   99
+    57. Lycosa carrying Cocoon attached to her Spinnerets    100
+    58. Attus Mystaceus laying Eggs                          101
+    59. Epeira Strix making Cocoon                           101
+    60. Epeira Strix laying Eggs                             102
+    61. Cocoon of Argyrodes hanging by a Stem                103
+    62. Cocoon of Epeira Riparia. From Wilder                103
+    63. Eggs during Segmentation                             106
+    64. Eggs further Advanced                                108
+    65. Young Epeira Riparia after First Moult               109
+    66. Moulting of Nephila Plumipes. From Wilder in
+          Proceedings American Association                   111
+    67. Nephila Plumipes just after Moulting. From Wilder    111
+
+
+
+
+THE STRUCTURE AND HABITS OF SPIDERS.
+
+
+
+
+CHAPTER I.
+
+ANATOMY AND CLASSIFICATION.
+
+
+The spiders form a small and distinct group of animals, related to the
+scorpions, the daddy-long-legs, and the mites, and less closely to the
+insects and crabs. They are distinguished by the more complete
+separation of the body into two parts; by their two-jointed mandibles,
+discharging a poisonous secretion at the tip; and by their
+spinning-organs, and habits of making cobwebs and silk cocoons for their
+eggs.
+
+The common round-web spider, _Epeira vulgaris_ of Hentz, will serve as
+well as any species to show the anatomy of spiders in general. Fig. 1
+shows the under side of this spider; Fig. 4, the upper side; and Fig.
+5, an imaginary section through the body, to show the arrangement of
+the internal organs. To begin with Fig. 1: the body is seen to be
+divided into two parts, connected only by the narrow joint, A, just
+behind the last pair of legs. The front half of the body, called
+the thorax, contains the stomach, the central part of the nervous
+system, and the large muscles which work the legs and jaws. The hinder
+half, the abdomen, contains the intestine, the breathing-organs, the
+principal circulating-vessels, the organs of reproduction, and the
+spinning-organs. Connected with the thorax are six pairs of limbs, four
+pairs of legs, B B B B, a pair of palpi, C, and a pair of mandibles, D.
+
+[Illustration: Fig. 1.]
+
+
+LEGS.
+
+The legs are used chiefly for running, jumping, and climbing; but the
+front pair serve often as feelers, being held up before the body while
+the spider walks steadily enough on the other six. One or both of the
+hinder legs are used to guide the thread in spinning; the spider at
+the same time walking or climbing about with the other six or seven.
+The legs are seven-jointed; and on the terminal joint are three claws,
+Fig. 2, A, B, C, and various hair and spines. In many spiders a brush
+of hairs takes the place of the middle claw, as in the jumping spiders,
+Fig. 3. Spiders with these brushes on their feet can walk up a steep
+surface, or under a horizontal one, better than those who have three
+claws. The legs of most spiders have among the hairs movable spines,
+which, when the spider is running about, extend outward at a right
+angle with the leg, and, when it is resting, are closed down against
+the skin.
+
+[Illustration: Fig. 2.]
+
+
+PALPI.
+
+In front of the legs are the palpi, Fig. 1, C, C,—a smaller pair of
+limbs, with six joints and only one claw or none. They are used as
+feelers, and for handling food, and, in the males, carry the curious
+palpal organs, which will be described farther on. The basal joints,
+Fig. 1, E, of the palpi are flattened out, and serve as chewing-organs,
+called “maxillæ.”
+
+[Illustration: Fig. 3.]
+
+Mr. Mason has lately described, in the Transactions of the
+Entomological Society of London, a large spider which has teeth on
+the inside of the palpi, which, when the spider is angry, are rubbed
+against teeth on the mandibles, producing a noise.
+
+
+MANDIBLES.
+
+The front pair of limbs, the mandibles, Fig. 1, D, are two-jointed. The
+basal joint is usually short and stout, and furnished on the inner side
+with teeth and hairs. The terminal joint is a small and sharp claw,
+which can be closed against the basal joint when not in use.
+
+
+ABDOMEN.
+
+On the under side of the abdomen, just behind the last pair of
+legs, are two hard, smooth patches, which cover the front pair of
+breathing-organs, the openings to which are two little slits at Fig.
+1, H. Between these is the opening of the reproductive organs, and, in
+female spiders, the epigynum, Fig. 1, J,—an apparatus for holding the
+reproductive cells of the male.
+
+At the end of the body are the spinnerets, which will be described in
+another chapter. There are three pairs of them; but many spiders close
+them together when not in use, so as to cover up the middle pair. The
+third pair of spinnerets are often several-jointed, and extend out
+behind the body like two tails. In front of the spinnerets is a little
+opening, Fig. 1, K, which leads to air-tubes that give off branches to
+different parts of the abdomen. At M, Fig. 1, are usually two colored
+bands, or rows of spots, marking the course of muscles attached to the
+skin at various points along these lines.
+
+Fig. 4 is the back of the same spider. The head is not separated from
+the rest of the body, as in insects, but forms, with the thorax,
+one piece. On the front of the head are eight eyes, Q, which are
+differently arranged in different spiders. At the back part of the
+thorax is a groove, P, under which is attached a muscle for moving the
+sucking-stomach, Fig. 5, _d_. From this point radiate shallow grooves,
+that follow the divisions between the muscles of the legs. On the
+abdomen are several pairs of dark smooth spots, which mark the ends of
+muscles extending downward through the abdomen. The markings of this
+spider are very complicated. The spot on the middle of the front of the
+abdomen is a very common one, and, in some spiders, extends the whole
+length of the body. The waved lines on each side are also common, and,
+in long-bodied spiders, often form two bright-colored stripes, or rows
+of spots, running nearly straight the whole length of the abdomen.
+
+[Illustration: Fig. 4.]
+
+
+INTESTINE.
+
+Fig. 5 is a section of the same spider. The mouth is at _a b_, just
+under and behind the mandibles, and between the maxillæ. It has an
+upper, _a_, and under lip, _b_, each lined with a horny plate, in
+the middle of which runs a groove. When the lips are closed, the two
+grooves form a tube, which leads to the œsophagus, _c_, and so into
+the stomach. At the end of the œsophagus is the sucking-stomach. This
+consists of a flattened tube, to the top of which is attached a muscle,
+_d_, connected with the groove in the back; and to the bottom, muscles,
+_f_, attached to a tough diaphragm spreading across the thorax, and
+fastened between the legs on each side at _g g_. When these muscles
+contract, the top and bottom of the sucking-stomach are drawn apart,
+and whatever is in the œsophagus sucked in. By this pumping motion
+the spider is supposed to take liquid food from the mouth, and drive
+it backward into the abdomen. Just behind the sucking-stomach, the
+intestine gives off two branches, _e e_, which extend forward around
+the stomach muscle, and meet over the mouth. Each of these branches
+gives off on the outer side four smaller branches, _m m m m_, which
+extend downward,—one in front of each leg,—and unite on the under side
+of the thorax.
+
+[Illustration: Fig. 5.
+
+ Section of a spider to show the arrangement of the internal organs:
+  _a_, _b_, upper and under lips of the mouth;
+  _c_, _c_, the œsophagus;
+  _d_, _f_, upper and under muscles of the sucking-stomach;
+  _e_, stomach; _g_, _g_, ligaments attached to diaphragm under the
+                          stomach;
+  _J_, lower nervous ganglion; _k_, upper ganglion;
+  _l_, _l_, nerves to the legs and palpi; _m_, branches of the stomach;
+  _n_, poison-gland; _o_, intestine; _p_, heart; _R_, air-sac;
+  _S_, ovary; _t_, air-tube;
+  _u_, spinning-glands. ]
+
+The intestine, _o_, continues backward through the abdomen to the
+anus, in the little knob behind the spinnerete. The brown mass which
+surrounds the intestine, and fills the abdomen above it, is supposed to
+be a secreting-organ discharging into the intestine at several points.
+
+
+HEART.
+
+Over the intestine, and parallel with it, is the heart, _p_, a muscular
+tube, with openings along the sides to receive the blood, and branches
+through which it flows to different parts of the body. The greater part
+of the blood enters at the front of the heart, and passes backward into
+the abdomen, or forward into the thorax.
+
+
+BREATHING-ORGANS.
+
+In the front of the abdomen are the principal breathing-organs,—a
+pair of sacs, R, containing a number of thin plates, through which the
+blood passes on its way to the heart. Besides these, there is a pair of
+branching air-tubes, _t_, opening near the spinnerets.
+
+
+NERVOUS SYSTEM.
+
+The nervous system has a large ganglion, J, in the thorax, from which
+branches, _i_, pass to the limbs and abdomen. At the front end two
+branches extend upward, each side of the œsophagus, to two smaller
+ganglia, _k_, from which pass nerves to the mandibles and eyes.
+
+The reproductive organs, S, lie along the under side of the abdomen,
+and open between the two air-sacs.
+
+The spinning-glands, _u_, lie above the spinnerets, and along the under
+side of the abdomen. They will be more fully described in the chapter
+on spinning.
+
+
+POISON-GLANDS.
+
+The poison-glands, _n_, are partly in the basal joints of the
+mandibles, and partly in the head, and discharge by a tube which opens
+at the point of the claw of the mandible, Fig. 15, _a_.
+
+
+CLASSIFICATION.
+
+There is not room in this book to explain the classification of spiders
+into genera and species; but a description of the following well-marked
+groups, which contain nine-tenths of all spiders, will give a general
+idea of the differences among them, and help to understand what follows.
+
+[Illustration: Fig. 6.]
+
+
+MYGALIDÆ
+
+This family includes the largest known spiders. The body is usually
+very hairy and dark-colored. Most species have only four spinnerets;
+and one pair of these are long, and are turned up behind the abdomen.
+They have four air-sacs under the front of the abdomen, instead of
+two, as other spiders. Their mandibles are very large, and work up and
+down, instead of sidewise. The eyes are collected together on the
+front of the head. They live only in warm countries. Specimens from
+South America are exhibited in every natural history museum. Fig. 6
+represents _Mygale Hentzii_, a species living in Arizona and Texas.
+
+
+DYSDERIDÆ.
+
+A small family of spiders with only six eyes. They have also four
+breathing-holes in the front of the abdomen; but one pair leads to
+branched tubes instead of sacs. They are usually found under stones,
+with their legs drawn up close to their bodies, but can move very
+quickly when so inclined. Very few species are known, and none are
+common, in North America. Fig. 7 is _Dysdera interrita_ enlarged. Below
+are the eyes as seen from in front.
+
+
+DRASSIDÆ.
+
+A large family of spiders, varying greatly in shape, color, and habits.
+Most of them are dull colored, and live under stones, or in silk tubes
+on plants, and make no webs for catching insects. Their eyes are small,
+and arranged in two rows on the front of the head. Their feet have two
+claws and a bunch of flat hairs. The spinnerets are usually long enough
+to extend a little behind the abdomen. Fig. 8 is a _Drassus_, and the
+eyes as seen from in front.
+
+[Illustration: Fig. 7.]
+
+[Illustration: Fig. 8.]
+
+
+AGALENIDÆ.
+
+Long-legged, brown spiders, with two spinnerets longer than the
+others, and extending out behind the body. They make flat webs, with
+a funnel-shaped tube at one side, Fig. 24, in which the spider waits.
+Fig. 9 is _Agalena nævia_, the common grass spider.
+
+[Illustration: Fig. 9.]
+
+
+CINIFLONIDÆ.
+
+A family resembling the last, but having peculiar spinning-organs,
+which will be described farther on, Fig. 35.
+
+
+LYCOSIDÆ.
+
+The running spiders. Very active spiders, living in open places, and
+catching their prey without webs. Their legs are long, the hind pair
+being the longest. The head is high, and the arrangement of the eyes
+peculiar to the family, Fig. 10.
+
+[Illustration: Fig. 10.]
+
+
+ATTIDÆ.
+
+The jumping spiders. The body is usually short, and the head square.
+The arrangement of the eyes is characteristic, Fig. 11, _a_. The two
+large ones in the middle give these spiders a more animated look than
+those of other families. The legs are short, and the front pair often
+stouter than the others. They can walk easily backwards or sidewise,
+and jump a long distance. Fig. 11 is the common gray jumping spider
+enlarged.
+
+[Illustration: Fig. 11.]
+
+[Illustration: Fig. 11 _a_.]
+
+
+THOMISIDÆ.
+
+The crab spiders. The body is usually flat, and wide behind. The front
+two pair of legs are longer than the others, and so bent that the
+spider can use them when in a narrow crack. Some of them, like crabs,
+walk better sidewise than forwards. Like the running and jumping
+spiders, they make no webs for catching food. The eyes are small, and
+simply arranged in two rows, Fig. 12.
+
+[Illustration: Fig. 12.]
+
+
+THERIDIIDÆ.
+
+The largest family of spiders. Most of them are small, with large
+rounded abdomens and slender legs. They live usually upside down,
+holding by their feet under their webs. They make large cobwebs of
+different shapes for different species, and depend for food on what is
+caught in them. To this group belongs the genus _Erigone_, containing a
+great number of the smallest spiders known. Fig. 13 is the common house
+_Theridion_ enlarged.
+
+[Illustration: Fig. 13.]
+
+
+EPEIRIDÆ.
+
+The round-web spiders. Large spiders, with flat heads, and eyes wide
+apart, and short, round abdomens, Figs. 1, 4. They make webs formed
+of radiating lines crossed by other adhesive ones in a spiral or
+concentric loops, Fig. 28. They hang in the web, head downward, or live
+upside down in a hole near by.
+
+
+
+
+CHAPTER II.
+
+EATING AND BITING.
+
+
+The spiders are best known and hated as animals that bite. The biting
+apparatus is shown in Fig. 14, which represents the head and mandibles
+of _Epeira vulgaris_, seen from in front. When not in use, the claw is
+closed up against the mandible between the rows of teeth; but, when the
+jaws are opened to bite, the claws are turned outward, so that their
+points can be stuck into any thing between the jaws. Fig. 15 is the
+claw still more enlarged, showing a little hole near the point at _a_,
+out of which is discharged the secretion of a gland in the head, Fig.
+5, _n_. The ordinary use of the mandibles is for killing and crushing
+insects, so that the soft parts can be eaten by the spider; and in this
+they are aided by the maxillæ, Fig. 1, E. They will sometimes chew an
+insect for hours, until it becomes a round lump of skin, with all the
+blood sucked out of it; this is then thrown away, the spider swallowing
+only such bits as may happen to be sucked in with the liquid portion.
+
+[Illustration: Fig. 14.]
+
+[Illustration: Fig. 15.]
+
+If let alone, no spiders bite any thing except insects useful for food;
+but, when attacked and cornered, all species open their jaws, and
+bite if they can; their ability to do so depending on their size, and
+the strength of their jaws. Notwithstanding the number of stings and
+pimples that are laid to spiders, undoubted cases of their biting the
+human skin are very rare; and the stories of death, insanity, and
+lameness from spider-bites, are probably all untrue.
+
+Many experiments have been tried to test the effect of the bites
+of spiders on animals. Doleschall shut up small birds with _Mygale
+Javanica_ and _Mygale Sumatrensis_, both large and strong spiders; and
+the birds died in a few seconds after being bitten. One of the spiders
+was left for ten days without food, and then made to bite another bird,
+which was injured, but in six hours recovered. The same author was
+bitten in the finger by a jumping spider. The pain was severe for a few
+minutes, and was followed by lameness of the finger, and gradually of
+the hand and arm, which soon went away entirely.
+
+Bertkau allowed spiders to bite his hand. On the ends of the fingers
+the skin was too thick; but between the fingers they easily pricked
+it. The bite swelled and smarted for a quarter of an hour, and then
+itched for some time, and for a day after itched whenever rubbed, as
+mosquito-bites will. He also experimented on flies, which died in a few
+minutes after being bitten.
+
+Mr. Blackwall, to test the poison of spiders, made several large ones
+bite his hand and arm, and at the same time pricked himself with a
+needle. Although the spiders bit deep enough to draw blood, the effect
+of their bite was exactly like that of the prick of the needle. No
+inflammation or pain followed, and both healed immediately.
+
+Several spiders were placed together, and made to bite one another. The
+bitten ones lived always some hours, and died from loss of blood; and
+one spider, that had been bitten in the abdomen so that some of the
+liver escaped and dried on the outside, lived over a year, apparently
+in good health.
+
+A large spider was made to bite a wasp near the base of the right
+front-wing, so as to disable it; but it lived thirteen hours.
+
+A bee was bitten by a large spider, but lived three days.
+
+A grasshopper was bitten, and held in the jaws of a spider for several
+seconds; but it lived in apparent health for two days.
+
+Insects of the same kinds were wounded in the same places with needles,
+and died in about the same time as when bitten.
+
+From these experiments Mr. Blackwall was led to believe that the
+secretion from the spider’s jaws is not poisonous, but that insects
+die, when bitten, from loss of blood and mechanical injury.
+
+Mr. Moggridge, who studied the habits of trap-door spiders for several
+years, was more than once bitten by them, but never had any pain or
+inflammation from the bites.
+
+The bites of _Latrodectus guttatus_ of the south of Europe, and an
+allied species in California, are much dreaded, but probably as much on
+account of the size and conspicuous colors of the spider as any thing
+else.
+
+The Tarantula, also a south European spider, has been supposed to
+cause epilepsy by its bites, which could only be relieved by music of
+particular kinds. These stories appear, however, to be all nonsense: at
+any rate, the Tarantula bites produce no such effect nowadays. These
+spiders live in holes in sand, out of which they rush after passing
+insects, and may be caught by a straw moved carefully over the holes
+like an insect. They are no more savage in their habits than other
+spiders; and Dufour kept one that soon learned to take flies from his
+fingers without biting him.
+
+Spiders of very different species soon learn to take food from the hand
+or a pair of forceps, or water from a brush, and will come to the mouth
+of their bottle, and reach after it on tiptoe.
+
+Many stories are told of spiders coming out of their holes to listen to
+music, and of their being taught to come out and take food at the sound
+of an instrument.
+
+
+
+
+CHAPTER III.
+
+SPINNING HABITS.
+
+
+That which, more than any thing else, distinguishes spiders from other
+animals is the habit of spinning webs. Some of the mites spin irregular
+threads on plants, or cocoons for their eggs; and many insects spin
+cocoons in which to pass through the change from larva to adult. In the
+spiders the spinning-organs are much more complicated, and used for a
+greater variety of purposes,—for making egg-cocoons, silk linings to
+their nests, and nets for catching insects. The spider’s thread differs
+from that of insects, in being made up of a great number of finer
+threads laid together while soft enough to unite into one.
+
+
+SPINNERETS.
+
+[Illustration: Fig. 16.]
+
+The external spinning-organs are little two-jointed tubes on the ends
+of the spinnerets, Fig. 1, L. Fig. 16 is the spinnerets of the same
+spider, still more enlarged to show the arrangement of the tubes. There
+is a large number of little tubes on each spinneret, and in certain
+places a few larger ones. Fig. 17 is a single tube, showing the ducta
+which leads the viscid liquid to form the thread from a gland in the
+spider’s abdomen. Each tube is the outlet of a separate gland. Fig. 18,
+_a_, shows four small tubes from a spinneret of _Epeira_, each with a
+small gland attached; and Fig. 18, _b_, a large tube, with one of the
+large glands which extends forward the whole length of the abdomen,
+Fig. 5, _u_.
+
+[Illustration: Fig. 17.]
+
+[Illustration: Fig. 18.]
+
+The shape of the spinnerets, and size and arrangement of the tubes,
+vary in different species. Fig. 19 is a spinneret of _Prosthesima_,
+where there are a few large tubes in place of many small ones. In
+_Agalena_ the two hinder spinnerets are long, and have spinning-tubes
+along the under side of the last joint, Fig. 20.
+
+When the spider begins a thread, it presses the spinnerets against
+some object, and forces out enough of the secretion from each tube to
+adhere to it. Then it moves the spinnerets away; and the viscid liquid
+is drawn out, and hardens at once into threads,—one from each tube.
+If the spinnerets are kept apart, a band of threads is formed; but,
+if they are closed together, the fine threads unite into one or more
+larger ones. If a spider is allowed to attach its thread to glass, the
+end can be seen spread out over a surface as large as the ends of the
+spinnerets, covered with very fine threads pointing toward the middle,
+where they unite, Fig. 21.
+
+[Illustration: Fig. 19.]
+
+[Illustration: Fig. 20.]
+
+The spinning is commonly helped by the hinder feet, which guide the
+thread, and keep it clear of surrounding objects, and even pull it from
+the spinnerets. This is well seen when an insect has been caught in a
+web, and the spider is trying to tie it up with threads. She goes as
+near as she safely can, and draws out a band of fine threads, which she
+reaches out toward the insect with one of her hind-feet; so that it may
+strike the threads as it kicks, and become entangled with them. As soon
+as the insect is tied tightly enough to be handled, the spider holds
+and turns it over and over with her third pair of feet, while, with the
+fourth pair, she draws out, hand over hand, the band of fine threads
+which adhere to the insect as it turns, and soon cover it entirely.
+
+[Illustration: Fig. 21.]
+
+It is a common habit with spiders to draw out a thread behind as they
+walk along; and in this way they make the great quantities of threads
+that sometimes cover a field of grass, or the side of a house. We often
+see the points of all the pickets of a fence connected by threads spun
+in this way by spiders running down one picket, and up the next, for no
+apparent purpose.
+
+Spiders often descend by letting out the thread to which they hang; and
+are able to control their speed, and to stop the flow of thread, at
+will. They sometimes hang down by a thread, and allow themselves to be
+swung by the wind to a considerable distance, letting out the thread
+when they feel they are going in the right direction.
+
+Spiders in confinement begin at once to spin, and never seem
+comfortable till they can go all over their box without stepping off
+their web. The running spiders, that make no other webs, when about to
+lay their eggs, find or dig out holes in sheltered places, and line
+them with silk. Species that live under stones or on plants all line
+their customary hiding-places with web, to which they hold when at
+rest. Several of the large running spiders dig holes in sand, and line
+them with web, so that the sand cannot fall in; and build around the
+mouth a ring of sticks and straws held together by threads.
+
+
+TRAP-DOOR NESTS.
+
+The building of tubular nests is carried to the greatest perfection by
+certain genera of the _Mygalidæ_. (See page 13.)
+
+_Atypus_, the most northern genus of this family, makes a strong silken
+tube, part of which forms the lining of a hole in the ground, and part
+lies above the surface, among stones and plants, Fig. 22, A. The mouth
+of the tube is almost always closed, at least when the spider is full
+grown.
+
+Another genus, which lives in warm countries, makes tubes lined with
+silk, and closed at the top by a trap-door. A common species, _Cteniza
+Californica_, lives in the southern part of California, and is often
+brought east by travellers. It digs its hole in a fine soil, that
+becomes, when dry, nearly as hard as a brick; but the spider probably
+works when the ground is wet. The holes are sometimes nearly an inch
+in diameter, and vary in depth from two or three inches to a foot.
+The mouth is a little enlarged, and closed by a thick cover that fits
+tightly into it, like a cork into a bottle. The cover is made of dirt
+fastened together with threads, and is lined, like the tube, with silk,
+and fastened by a thick hinge of silk at one side, Fig. 22, B. When the
+cover is closed, it looks exactly like the ground around it. The spider
+holds on the inside of the door with the mandibles and the two front
+pairs of feet; while the third and fourth pairs of legs are pressed out
+against the walls of the tube, and hold the spider down so firmly, that
+it is impossible to raise the cover without tearing it.
+
+Among the trap-door spiders of Southern Europe, about which Mr. J. T.
+Moggridge has written a very interesting book, are species which make
+different kinds of nests. The cover, instead of being thick, and wedged
+into the top of the tube like a stopper, is thin, and rests on the top
+of the hole, Fig. 22, C, and is covered with leaves, moss, or whatever
+happens to be lying about; so that it is not easily seen. Two or three
+inches down the tube is another door, Fig. 22, E, hanging to one side
+of the tube when not in use; but, when one tries to dig the spider out
+from above, she pushes up the lower door, so that it looks as if it
+were the bottom of an empty tube.
+
+Another species digs a branch obliquely upward from the middle of the
+tube, closed at the junction by a hanging-door, which, when pushed
+upward, can also be used to close the main tube, Fig. 22, F. What
+use the spider makes of such a complicated nest, nobody knows from
+observation; but Mr. Moggridge supposes that when an enemy, a parasitic
+fly, for instance, comes into the mouth of the tube, the spider stops
+up the passage by pressing up against the lower door; but, if this is
+not enough, it dodges into the branch, draws the door to behind it, and
+leaves the intruder to amuse himself in the empty tube. The branch is
+sometimes carried up to the surface, where it is closed only by a few
+threads; so that, in case of siege, the spider could escape, and leave
+the whole nest to the enemy.
+
+[Illustration: Fig. 22.
+
+Trap-door nests: A, nest of Atypus; B, nest with thick door;
+C, nest with thin door; D, branched nest; E, nest with two doors;
+F, branched nest with two doors; G, nest with two branches.]
+
+In these nests the spiders live most of the time, coming out at night,
+and some species in the daytime, to catch insects, which they carry
+into the tube, and eat. The eggs are laid in the tube; and the young
+are hatched, and live there till able to go alone, when they go out,
+and dig little holes of their own. As the spider gets larger, the hole
+is made wider, and the cover enlarged by adding a layer of earth and
+silk; so that an old cover is made up of a number of layers, one over
+the other, over the original little cover.
+
+Moggridge once took a _Cteniza Californica_ out of her nest, and put
+her on a pot of earth, and the next morning had the good luck to see
+her at work digging. She loosened the earth with her mandibles, and
+took it in little lumps with the mandibles and maxillæ, and carried it
+away piece by piece. It took her an hour to dig a hollow as large as
+half a walnut. He saw the making of the door twice by other species.
+Once he dug a hole for a spider in some earth, and the next day found
+her in it, and the top covered by a little web, on which were scattered
+bits of earth and leaves, which had evidently been put there by the
+spider. The second night, enough dirt and silk were added to make the
+door of the usual thickness; but the spider never finished it so that
+it would open properly on its hinge. Another time Moggridge saw at the
+mouth of a very small hole a spider at work making a door. She spun
+a few threads across the hole, then gathered up with her front-legs
+and palpi an armful of dirt, and laid it on top of them. She then got
+under the pile, into the tube; but the motions of the dirt showed that
+she was still at work on it, and next morning the under side had been
+thickly covered with web, and the whole separated from the mouth of
+the tube, except at one side, where the usual hinge was left. The new
+door was at first soft, but in two or three days hardened, and appeared
+exactly like an old door.
+
+These spiders are accustomed to put on the door moss like that which
+grows around it, and so conceal the door from sight; but when Mr.
+Moggridge took away the moss, and dug up the ground around a hole, and
+then destroyed the cover, the spider made a new one, and brought moss
+from a distance to put on it, thereby making it the most conspicuous
+thing in the neighborhood.
+
+Mr. S. S. Saunders tried to see trap-door spiders make their nests.
+When the earth was dry, they would do nothing; but, after watering it,
+they several times dug new holes, but always in the night.
+
+The food of the European trap-door spiders consists largely of ants and
+other wingless insects, and they have been known to eat earthworms and
+caterpillars. Mr. Moggridge has often seen them, even in the daytime,
+open their doors a little, and snatch at passing insects, sometimes
+taking hold of one too large to draw into the tube. One time he and
+some friends marked some holes, and went and watched them in the night.
+The doors were slightly open, and some of the spiders’ legs thrust out
+over the rim of the hole. He held a beetle near one of the spiders; and
+she reached the front part of her body out of the tube, pushing the
+door wide open, seized the beetle, and backed quickly into the tube
+again, the door closing by its own weight. Shortly after, she opened it
+again, and put the beetle out alive and unhurt, probably because it was
+too hard to eat. He next drove a sow-bug near another hole; and the
+spider came out and snatched it in the same way, and kept it. None of
+the spiders came entirely out of their holes, and they were only a
+little more active than in the daytime.
+
+Erber, in the Island of Tinos, noticed a place where several trap-door
+nests were near each other, and spent a moonlight night watching them.
+Soon after nine o’clock some of the spiders came out, fastened back
+their doors, and each spun a web, about six inches long and an inch
+high, among the grass near her hole, and went back into the tube.
+In course of time beetles were caught in the webs, and eaten by the
+spiders, and the hard parts carried several feet from the nest. The
+next morning the webs had been cleared away, and the doors of the tubes
+closed, leaving no traces of the night’s work.
+
+
+SILK TUBES AND NESTS.
+
+Several species of _Theridion_ and _Epeira_ make tents near their
+webs, under which they hang when at rest, and in which some species
+make their cocoons, and lay their eggs. The tents are usually covered
+outside with leaves drawn together, with sticks or bud-scales collected
+near by, or with earth and stones brought up from the ground below.
+
+Some spiders living on plants make flat tubes, in which they wait for
+insects, and also hide while moulting, or laying eggs. Others make,
+especially about the breeding-time, bags of silk on plants, or under
+stones, in which the egg-cocoons are finally spun.
+
+[Illustration: Fig. 23.]
+
+_Dolomedes_ makes among grass and shrubs, in meadows, a great nest,
+four or five inches in diameter, Fig. 23, in which is the egg-cocoon.
+The young hatch and ramble about in this nest for some time. The spider
+remains near, usually holding on under the nest.
+
+
+THE WATER-SPIDER.
+
+There is one spider that makes a bag of silk, something like those
+just mentioned, on water-plants, and lives in it under water, as in a
+diving-bell; the opening being below, so that the air cannot escape.
+Mr. Bell, in “The Journal of the Linnæan Society,” vol. i., 1857,
+describes the filling of these nests with air by the spider. After the
+nest had been made as large as half an acorn, she went to the surface,
+and returned, fourteen times successively, and each time brought down a
+bubble of air, which she let escape into the nest. The bubble was held
+by the spinnerets and two hind-feet, which were crossed over them; and
+the method of catching it was the following: The spider climbed up on
+threads or plants nearly to the surface, and put the end of the abdomen
+out of water for an instant, and then jerked it under, at the same time
+crossing the hind-legs quickly over it. She then walked down the plants
+to her nest, opened her hind-feet, and let the bubble go.
+
+The water-spiders run about on water-plants, and catch the insects
+which live among them. They lay their eggs in the nest; and the young
+come out, and spin little nests of their own, as soon as they are big
+enough. Their hairs keep the skin from becoming wet as they go through
+the water; and in the nest they are as dry as if it were under a stone,
+or in a hole on land.
+
+
+COBWEBS.
+
+The simple nests and tubes that have been described are made by
+spiders, most of which spin no other webs. The larger and better known
+cobwebs for catching insects are made by comparatively few species. On
+damp mornings in summer the grass-fields are seen to be half covered
+with flat webs, from an inch or two to a foot in diameter, which are
+considered by the weatherwise as signs of a fair day. These webs remain
+on the grass all the time, but only become visible from a distance when
+the dew settles on them. Fig. 24 is a diagram of one of these nests,
+supposed, for convenience, to be spun between pegs instead of grass.
+The flat part consists of strong threads from peg to peg, crossed by
+finer ones, which the spider spins with the long hind-spinnerets, Fig.
+20, swinging them from side to side, and laying down a band of threads
+at each stroke. The web is so close and tight, that one can hear the
+footsteps of the spider as she runs about on it. At one side of the web
+is a tube leading down among the grass-stems. At the top the spider
+usually stands, just out of sight, and waits for something to light on
+the web, when she runs out, and snatches it, and carries it into the
+tube to eat. If any thing too large walks through the web, she turns
+around, and retreats out of the lower end of the tube, and can seldom
+be found afterward. In favorable places these webs remain through the
+whole season, and are enlarged, as the spider grows, by additions on
+the outer edges, and are supported by threads running up into the
+neighboring plants. Similar webs are made by several house-spiders, and
+are enlarged, if let alone, till they are a foot or two feet wide, and
+remain till they collect dirt enough to tear them down by its weight.
+
+[Illustration: Fig. 24.]
+
+Nearly all spiders that make cobwebs live under them, back downward;
+and many are so formed, that they can hardly walk right side up. The
+spiders of the genus _Linyphia_ make a flat or curved sheet of web,
+supported by threads above and below; the spider standing, usually,
+underneath in some corner, out of sight. _Linyphia Marmorata_ makes a
+dome-shaped web, Fig. 25, supported by threads that extend up into the
+bushes two or three feet. The spider stands under the middle of the
+dome, where it draws in a small circle of web with its feet. The upper
+threads of the web interfere with the wings of small insects flying
+between them, and they fall down to the dome below, where they are
+seized, and pulled through the nearest hole. _Linyphia communis_ makes
+a double web, Fig. 26. The spider stands under the upper sheet, which
+curves a little downward. What the use of the lower web is, is not
+easily seen. Either of these spiders, when frightened, leaps out of the
+web to the ground; but _Linyphia communis_ must go to the edge before
+she can clear herself, and so is easily caught in her own web.
+
+[Illustration: Fig. 25.]
+
+[Illustration: Fig. 26.]
+
+A little spider, _Argyrodes_, belonging to the same family, lives among
+the upper threads of webs of this kind, without being troubled by the
+owner. It resembles in size and color the scales of pine-buds that
+often fall in the web, and may easily be mistaken for them. It probably
+spins a few threads of its own among the borrowed ones, and does, at
+times, make a separate web of its own.
+
+The webs of _Theridion_ usually have at some part a tent, or at least
+a thicker portion, under which the spider stands; and from this run
+irregularly simple threads, crossing each other in all directions, and
+held in place by threads above and below. Such irregular webs are made
+often in houses by _Theridion vulgare_, Hentz, in corners of rooms,
+under furniture, and in cellar-stairways. The same spider spins
+occasionally out of doors on fences, but never on plants. When it
+has caught an insect, and tied it up, it hoists it up into the web,
+sometimes a considerable distance.
+
+They do this by fastening to it threads from above, which, as they dry,
+contract, and pull it up a little. They keep on bringing down more and
+more threads, until the insect is at last hoisted to the top of the
+web, where they can suck it without exposing themselves.
+
+_Pholcus_, the long-legged cellar-spider, makes an irregular web of
+this kind, and has a curious habit when alarmed. It hangs down by its
+long legs, Fig. 27, and swings its body around in a circle, so fast
+that it can hardly be seen. Fig. 27, _a_, represents the spider as seen
+from below; and the dotted circle shows the path in which it revolves.
+
+
+ROUND WEBS.
+
+These well-known cobwebs are made by the family _Epeiridæ_, Figs. 1, 4;
+and the process of making them by the common spider, from which these
+figures are drawn, can be easily observed in any garden. They generally
+choose for their web a window-frame or fence, or some such open wooden
+structure, where there is a hole or crack in which they can hide in the
+daytime.
+
+[Illustration: Fig. 27.]
+
+[Illustration: Fig. 28.]
+
+The spider begins by spinning a line across where the web is to be, and
+attaches another to it near the middle. She carries the last line along,
+holding it off with one of the hind-feet, and makes it fast an inch
+or two from one end of the first; then she goes back to the centre,
+attaches another line, which she carries off in another direction,
+and fastens; and so on, until all the rays of the web, Fig. 28, are
+finished. She stops occasionally at the centre, turns around, and
+pulls at the threads one after another, and spins here and there short
+cross-lines to hold them more firmly. She seems, by thus feeling the
+rays, to decide where to put in the next one, and does it always in
+such a way as to keep tight what has been done before. When the rays
+are finished to her satisfaction, the spider begins at the centre to
+spin a spiral line across them, Fig. 28, _a_, _a_, _a_; the turns of
+the spiral being as far apart as the spider can conveniently reach. She
+climbs across from one ray to the next, holding her thread carefully
+off with one of the hind-feet, till she gets to the right point, and
+then turns up her abdomen, and touches the ray with her spinnerets,
+thus fastening the cross-thread to it. The figure shows her in this
+position. When this spiral has been carried to the outside of the web,
+the spider begins there another and closer one, Fig. 28, of thread of
+a different kind. While the first thread was smooth, the latter is
+covered with a sticky liquid, which soon collects on it in drops, and
+makes it adhere to any thing that touches it. After going round a few
+times, this spiral crosses the one that was spun first, or would, if
+the spider allowed it to; but, as she comes to the old spiral, she
+bites it away, leaving only little rags, Fig. 22, _b_, attached to
+the rays, which may be seen in the finished web. By beginning thus at
+the outside, the spider is able to cover the whole web with adhesive
+threads, and, without stepping on it, take her usual place in the
+centre. She usually is careful enough to spin beforehand a thread from
+the centre to her nest, and sometimes stays there, with one foot on the
+thread, so as to feel if any thing is caught in the web. When she feels
+a shake, she runs down to the centre, feels the rays to see where the
+insect is, and runs out, and seizes it, or ties it up as described on
+page 43. We have described the web as consisting of one regular spiral;
+but this is seldom the case. It is usually wider on one side than the
+other, or below than above, as in Fig. 28, where outside the spirals
+are several loops going partly round the web. The web of Zilla consists
+entirely of such loops going three-quarters round the web, and
+returning, leaving a segment without any cross-threads, in which is
+the line from the centre to the spider’s nest, Fig. 29. The spider is
+shown carrying a fly to its nest attached to the spinnerets; and, if
+this is its usual habit, the web with an open segment is certainly more
+convenient than a complete one.
+
+[Illustration: Fig. 29.]
+
+The web of _Nephila plumipes_, described by Wilder, consists also of
+loops running round about quarter of a circle, Fig. 30; and in this
+web the smooth cross-lines which are first spun are not removed, but
+remain after it is finished. Fig. 31 shows part of one side of a web;
+the arrows marking the smooth thread, and the direction in which it was
+spun.
+
+[Illustration: Fig. 30.]
+
+_Argiope_, the large black and yellow autumn spiders, cross the middle
+of the web with a zig-zag band of white silk, which, as the web is
+obliquely hung, partly conceals the spider under it. These spiders also
+spin each side of the web, and two or three inches from it, a screen of
+irregular threads of unknown use.
+
+[Illustration: Fig. 31.]
+
+The round-web spiders are said to repair their webs by tearing out a
+dirty, tangled piece, and putting a new one in its place. Wilder says
+that _Nephila plumipes_ tears off and replaces half the web at one
+time. _Epeira vulgaris_ often takes away an old web, and puts a new one
+in the same place, tearing down the old in pieces, and putting in the
+rays of the new as it goes along. The spider walks on the nearest sound
+thread, and gathers in with her front-feet as much old web as she can
+tear off, and rolls it up with her palpi and mandibles into a ball,
+and, when it is tight enough not to stick to the web, drops it. As she
+walks along, gathering up the old web in front, she at the same time
+spins a new thread behind, and, when she gets to a suitable place,
+makes it fast as one of the rays of the new web. The common story has
+it, that the spider eats the old web. She certainly gathers it up in
+her mouth, and sometimes throws it away at once, but at other times
+sits and chews it a long time, with apparent pleasure.
+
+Most of the _Epeiridæ_ are brightly colored, and make no attempt at
+concealment when in the web. Others have odd shapes and colors, and
+hang in the web in such positions that they look like any thing but
+animals. Some species draw up their legs against their triangular
+abdomens, and look like bits of bark fallen into the web. Others are
+long and slender, and when at rest, either in the web or out, lay their
+legs close together before and behind their bodies, so as to look like
+straws. Others have oddly shaped abdomens, as Fig. 32, under which the
+rest of the body is partly concealed.
+
+[Illustration: Fig. 32.]
+
+_Epeira caudata_, a common gray spider, living in the wood, collects
+pieces of insects and other rubbish, and arranges it in a line up and
+down, across the centre of the web. The spider stands in the centre,
+and from a short distance can hardly be distinguished from the rubbish.
+She also hides her cocoons in the web, in the same line of dirt.
+
+The size of the web is usually proportioned to that of the spider; but
+_Epeira displicata_, which is quarter of an inch long, makes a web only
+two or three inches in diameter, on the ends of branches of bushes,
+where it is shaken about, and sometimes blown to pieces, by the wind.
+
+As the spider stands in her web, and feels a slight shake, such as
+would be caused by a sudden wind, she draws her legs together, pulling
+the rays tighter, and so making the whole web steady. If, however, the
+spider is frightened, and has no time to escape, she throws her body
+back and forth as a man does in a swing, and thus shakes the web so
+rapidly, that the spider can hardly be seen. The most usual habit, when
+alarmed, is to drop to the ground, and lie there as if dead.
+
+
+USE OF SPIDER’S SILK.
+
+Various attempts have been made to use the silk of spiders, and chiefly
+that of the large round-web spiders, for practical purposes, either by
+carding the cocoons, or by drawing the thread directly from the spider.
+The latest experiments and plans for this purpose are those of
+Professor Wilder in “The Galaxy,” vol. viii. He shows how _Nephila
+plumipes_ might be raised in large numbers, each spider kept by herself
+in a wire ring surrounded by water, fed with flies bred for the purpose
+from old meat, and milked every day of their thread. Each cocoon of
+this spider contains from five hundred to a thousand eggs. The young
+live together for two or three weeks, spin a web in common, and eat
+one another, or any small insects that come in their way. Then they
+begin to scatter, and each builds her own web; so that from this time
+they must be kept separate, or they would eat one another. Every day or
+two, each spider should be taken down, put into a pair of stocks, and
+the thread pulled out till it stops coming. In this way Wilder thinks
+an ounce of thread could be got from each spider during the summer.
+The thread is from a seven-thousandth to a four-thousandth of an inch
+thick, and much smoother and more brightly colored, as well as finer,
+than that of the silk-worm. Several threads would have to be twisted
+together to get one of manageable size. The principal difficulties are
+the space needed for keeping each spider by herself, and the amount of
+labor needed to provide them with living insects for food, and to draw
+out the silk, which would make it too expensive to use.
+
+
+CURLED WEBS.
+
+There is a family of spiders called by Blackwall _Ciniflonidæ_, see
+p. 17, which, besides the usual plain thread, make a peculiar kind of
+their own. They have in front of the spinnerets, Fig. 33, an additional
+spinning-organ called the cribellum, _a_, _a_. It is covered with fine
+tubes, much finer than those of the spinnerets, set close together.
+
+[Illustration: Fig. 33.]
+
+They also have on the last joint but one of the hind-legs a comb of
+stiff hairs, called the calamistrum, Fig. 34, on the upper side.
+
+[Illustration: Fig. 34.]
+
+[Illustration: Fig. 35.]
+
+When they spin their peculiar web, they turn one of the hind-legs
+across under the spinnerets, so that the calamistrum is just under
+the cribellum, and the foot rests on the opposite leg, Fig. 35.
+The hind-legs are then moved rapidly back and forth; so that the
+calamistrum combs out from the spinning-tubes, and at the same time
+tangles a band of fine threads, C. This band is laid along, and
+attached here and there to a plain thread, A, B, so as to make it
+adhere more readily to an insect that happens to touch it. As one leg
+gets tired, they change, and work with the other. In the webs of these
+spiders this adhesive band can be seen with the naked eye, running
+about, as in Fig. 36. The webs are usually irregular, and shaped to
+fit the place where they are built, but have, in some part, a tube
+somewhat like that of the grass spider, Fig. 24, where the owner hides.
+Sometimes they are more or less regular in structure, some of the
+threads being parallel, and crossed by shorter ones at regular
+intervals, Fig. 37. Others are circular, with a tube in the centre
+which runs into a crack, and from which radiate irregularly the
+principal threads of the web. Such webs are sometimes very numerous
+on stone buildings, and, as they collect large quantities of dust,
+seriously disfigure them. The webs alone, when clean, would not be
+noticed.
+
+[Illustration: Fig. 36.]
+
+[Illustration: Fig. 37.]
+
+
+THE TRIANGLE SPIDER.
+
+Among those spiders that use the calamistrum is one which makes a
+web unlike any other. It has been described by Professor Wilder, in
+the “Popular Science Monthly” for April, 1875, under the name of the
+“triangle spider.” It lives usually among the dead branches around the
+lower part of pine and spruce trees, and is colored so like the bark,
+that when it stands, as it usually does, on the end of a branch, it
+is easily mistaken for a part of it. The web seems to be made in the
+night. Wilder saw them early in the morning; and I, in the evening,
+between sunset and dark. A single thread five or six inches long runs
+from the spider’s roost; and from its extremity radiate four branches,
+attached to various twigs in the neighborhood, Fig. 38, AE, AF, AG, AH.
+
+[Illustration: Fig. 38.]
+
+The spider begins to cross them with adhesive threads near the end
+of the upper ray at S′. After fastening the end of the thread, she
+walks along toward the centre, scratching away all the time with her
+calamistrum, till she comes to a place, 5, where she can cross to the
+next ray. She crosses over, and goes outward toward S″, the thread
+shrinking as she goes, until, when she arrives at S″, it is just long
+enough to reach across to S′. She fastens it by laying it along the ray
+for a short distance, and goes inward again till she reaches 7, where
+she crosses to the next ray; and so on till the thread is finished to
+S‴′. Here she stops spinning, and goes up the lower ray to A, and along
+the upper one to 4, where she starts another cross-thread. This goes on
+till the whole web is filled, as in Fig. 39, nearly to the centre.
+
+When the web is finished, the spider goes up the thread A _o_, to
+within an inch or so of the twig to which it is fastened; turns round,
+and takes hold of the thread with her front-feet; then pulls herself
+backward with her hind-feet up to the twig. She thus tightens the web,
+and draws up a loop of thread between her front and hind feet, Fig. 39,
+lower figure.
+
+[Illustration: Fig. 39.]
+
+The net is now set for use, and she stands holding it till something
+touches it; then she lets go with her hind-legs, and the net springs
+forward, bringing more threads into contact with the insect, and
+sliding the spider along the line toward A. If she thinks it worth
+while, she draws up another loop, and snaps the web again. When she is
+satisfied that the insect is caught, she gathers up part of the web
+till she comes to him, covers him with silk, and carries him up to her
+roost.
+
+There are other spiders of this group that make round webs, just like
+those of the _Epeiridæ_, Fig. 28, except in the adhesive threads being
+spun with the calamistrum.
+
+
+FLYING SPIDERS.
+
+Often, in summer, the bushes are covered with threads, attached by one
+end, blowing out in the wind; and bits of cobweb are blowing about,
+with occasionally a spider attached. To account for such threads,
+curious theories have been thought of; among others, that spiders are
+able to force the thread from their spinnerets, like water from a
+syringe, in any direction they choose.
+
+If a spider be put on a stick surrounded by water, she manages, in
+course of time, to get a thread to some object beyond, and to escape by
+it. To find out how this is done, Mr. Blackwall tried some experiments.
+He put spiders on sticks in vessels of water, and they ran up and down,
+unable to escape as long as the air in the room was still. But, if
+a draught of air passed the spider, she turned her head toward it,
+and opened her spinnerets in the opposite direction. If the draught
+continued, a thread was drawn out by it, which at length caught upon
+something, when the spider drew it tight, and escaped on it. If the air
+was kept still, or the spider covered with a glass, she remained on the
+stick till taken off.
+
+These experiments have been repeated, and show that the spider does not
+shoot or throw the web in any way, but takes advantage of currents of
+air, and allows threads to be blown out to a considerable distance.
+
+There is a still more curious use of this method of spinning threads;
+that is, in flying. Small spiders, especially on fine days in the
+autumn, get up on the tops of bushes and fences, each apparently
+anxious to get as high as possible, and there raise themselves up on
+tiptoe, and turn their bodies up, as in Fig. 40, with their heads
+toward the wind, and spinnerets open. A thread soon blows out from the
+spinnerets, and, if the current of air continues, spins out to a length
+of two or three yards, and then offers enough resistance to the wind
+to carry the spider away with it up into the air. As soon as she is
+clear, the spider turns around, and grasps the thread with her feet,
+and seems to be very comfortable and contented till she strikes against
+something. Sometimes they rise rapidly, and are soon out of sight; at
+other times blow along just above the ground.
+
+[Illustration: Fig. 40.]
+
+This habit is not confined to any particular kinds of spiders, but is
+practised by many small species of _Erigone_, and by the young of many
+spiders of all families, that, when adult, would be too large for it.
+The majority of the spiders flying in autumn are the young of several
+species of _Lycosa_, that seem to spend the greater part of October and
+November trying to get as far above ground as possible. The best places
+to watch them are garden-fences in cities, where they often swarm, and
+can be more distinctly seen than on bushes. Large numbers can always
+be seen, for example, on the fences around the Common in Boston, every
+fine day in autumn, until there has been a long period of cold weather.
+Other species fly in the early part of summer.
+
+Mr. Blackwall observed in Manchester, Eng., Oct. 1, 1826, a calm sunny
+day, that, just before noon, the fields and hedges were covered over
+with cobwebs. So thick were they, that, in crossing a small pasture,
+his feet were covered with them. They had evidently been made in a very
+short time, as early in the morning they were not conspicuous enough
+to attract his attention, and the day before could not have existed at
+all, as a high wind blew all day. At the same time large rags of web
+were floating about in the air, one measuring five feet long, and
+several inches wide. These appeared to be not formed in the air, but
+torn from grass and bushes, where they were produced by the tangling of
+many threads which had been spun separately. They kept rising all the
+forenoon, and in the afternoon came down again. Not one in twenty had
+a spider on it. Similar large webs were observed by Lincecum in Texas,
+and supposed by him to be balloons spun purposely by the spiders.
+
+Mr. Darwin, in the journal of the voyage of “The Beagle,” says, that
+when anchored in the River Plata, sixty miles from shore, he has seen
+the rigging covered with cobwebs, and the air full of pieces of web
+floating about. The spiders, however, when they struck the ship, were
+always hanging from single threads, and never to the floating webs.
+
+A recent account of the signs of weather-changes near the southern
+coast of the United States mentions as one of them cobwebs in the
+rigging.
+
+It is still unexplained how the thread starts from the spinnerets. It
+has been often asserted that the spider fastens the thread by the end,
+and allows a loop to blow out in the wind; but, in most cases, this is
+certainly not done, only one thread being visible. Sometimes, while
+a thread is blown from the hinder spinnerets, another from the front
+spinnerets is kept fast to the ground, Fig. 41; so that, when the
+spider blows away, it draws out a thread behind it entirely independent
+of the one from which it hangs.
+
+[Illustration: Fig. 41.]
+
+Sometimes, instead of a single thread, several are blown out at once,
+like a long brush, as in Fig. 42, which represents, four times
+enlarged, an unusually large spider just before blowing off a fence.
+
+[Illustration: Fig. 42.]
+
+
+
+
+CHAPTER IV.
+
+GROWTH OF SPIDERS.
+
+
+Persons unfamiliar with spiders find it hard to tell young from old,
+and male from female. This is caused, in part, by the great differences
+between different ages and sexes of the same spider, on account of
+which they are supposed to belong to distinct species.
+
+The adult males and females are easily distinguished from each other,
+and from the young, by the complete development of organs peculiar to
+each sex, which will be described further on.
+
+The males are usually smaller than the females, and have, in proportion
+to their size, smaller abdomens and longer legs. They are usually
+darker colored, especially on the head and front part of the body; and
+markings which are distinct in the female run together and become
+darker in the male. In most species these differences are not great;
+but in some no one would ever suppose, without other evidence, that the
+males and females had any relationship to each other. The most extreme
+cases of this kind are _Argiope_ and _Nephila_, where the male is about
+a tenth as large as the female. Fig. 43 represents male and female of
+_Nephila plumipes_ described by Wilder.
+
+[Illustration: Fig. 43.]
+
+[Illustration: Fig. 44.]
+
+[Illustration: Fig. 45.]
+
+The female of one of the common crab spiders is white as milk, with a
+crimson stripe on each side of the abdomen; while the male is a little
+brown-and-yellow spider, with dark markings of a pattern common in the
+family to which it belongs.
+
+In the genus _Erigone_, which includes the smallest known spiders, the
+males often have curious humps and horns on their heads, Fig. 44. The
+most extreme example is Fig. 45, where the eyes are carried up on the
+end of the horn. The females of all these species have plain round
+heads; and what use the humps are to the males nobody knows.
+
+The peculiar organs by which the adult males and females can always be
+distinguished are, in the males, the palpal organs, on the ends of the
+palpi; and, in the females, the epigynum, Fig. 1.
+
+
+PALPAL ORGANS.
+
+As the male spider gets nearly full grown, the terminal joints of the
+palpi become swollen, and, after the last moult, the palpal organs are
+uncovered.
+
+[Illustration: Fig. 46.]
+
+The simplest form of palpal organ is found in the large _Mygalidæ_,
+Fig. 6. It consists of a hard bulb, Fig. 46, drawn out to a point, in
+which is a small hole leading to a sac within.
+
+[Illustration: Fig. 47.]
+
+In most spiders the terminal joint is flattened, and has a hollow on
+the under side, in which the palpal organ is partly concealed. The bulb
+is flattened to fit this hollow; and the point of it is prolonged into
+a distinct tube of various shapes, furnished with numerous spines and
+appendages. Fig. 47 is the palpal organ of _Epeira vulgaris_ flattened
+out, and made transparent. The internal sac is shown at _a_; and the
+tube from it _b_ runs round the inside of the bulb, and ends at the
+opening _c_. The outside of the organ has various horns and appendages.
+Fig. 48 is the palpus of another spider, where the outer tube is so
+long, that it is coiled up over the basal part of the bulb; and the end
+rests on a strong spine at one side of the palpus.
+
+[Illustration: Fig. 48.]
+
+Not only the terminal joints of the palpi, but also the next, and
+sometimes next two joints, are modified in shape, with the development
+of the palpal organ, Fig. 48. The shape of these organs is very
+constant in the same species of spider, and thus becomes one of the
+most convenient marks of such a group.
+
+
+THE EPIGYNUM.
+
+When the female spider is nearly full grown, there appears a hard,
+swollen place just in front of the opening of the ovaries, Fig. 1; and,
+after the last moult, the epigynum is uncovered at this place. The
+epigynum, Fig. 49, consists of two spermathecæ, E, which connect by two
+little tubes, H, H, with the oviduct near its mouth, and by two larger
+tubes, D, with the outside of the spider. The mouths of these larger
+tubes are often surrounded by various hard appendages to support
+and guide the palpal organs when the latter are thrust into them.
+These parts, like the palpal organs, furnish convenient marks for
+distinguishing species. The spermathecæ, E, vary but little in shape
+in different spiders; but the tubes H and D are often lengthened,
+and twisted into shapes nearly as complicated as those of the palpal
+organs. Fig. 50 is the epigynum of a small _Theridion_, where the
+arrangement of parts can be very distinctly seen. E, E, are the
+spermathecæ; H, H, the tubes opening into the oviduct; and D, D, the
+tubes opening outward. Fig. 51 is the epigynum of another closely
+allied species, where the tubes D, D, are very much elongated and
+twisted up, corresponding to the long discharge-tube of the palpal
+organ of the male of the same spider, Fig. 48.
+
+[Illustration: Fig. 49.]
+
+[Illustration: Fig. 50.]
+
+[Illustration: Fig. 51.]
+
+
+USE OF THE PALPAL ORGANS AND EPIGYNUM.
+
+When the reproductive cells of the male spider are mature, he
+discharges the liquid containing them on a little web spun for the
+purpose; dips his palpal organs into it, and in a few moments takes up
+the whole, it is supposed, into the little sacs, Figs. 47, 48, inside
+the bulb; then he seeks the female, and inserts the palpal organs into
+her epigynum. The soft part at the base of the organ swells up, and
+presses in the discharge-tube, and probably forces out the contents of
+the bulb into the spermathecæ, E, E, from which it escapes, in course
+of time, by the tubes, H, H, into the oviduct, and fertilizes the eggs
+about the time they are laid.
+
+[Illustration: Fig. 52.]
+
+One palpal organ is usually inserted at a time, and, after a while,
+taken out, and replaced by the other; this change being repeated many
+times by the same spider. Among the _Lycosidæ_, Fig. 10, the male leaps
+on the back of the female, and is carried about by her, Fig. 52. He
+reaches down at the side of her abdomen, and inserts his palpi in the
+epigynum underneath. In _Linyphia_ and _Theridion_ the male and female
+live peaceably together for a long time in the same web. The male
+reaches from in front under the female, Fig. 53, and inserts his palpal
+organs, one after the other, for hours together. In _Agalena_ the male
+is the stronger of the two sexes. He takes the female in his mandibles,
+and lays her on one side, Fig. 54, and inserts one of his palpi. After
+a time, he rises on tiptoe, turns her around and over, so that she lies
+on the other side, with her head in the opposite direction, and inserts
+the other palpus. The female lies as though dead. In _Nephila_ and
+_Argiope_, where the male is very small, he stands on the upper edge of
+the web while the female is in her usual position in the centre. After
+feeling the web with his feet for some time, he runs down to the centre
+so lightly as not to disturb the female, and climbs about over her body
+for some minutes, in an apparently aimless way. She takes no notice
+of him at first; but at length, especially if he approach the under
+side of her abdomen, she turns, and snaps at him with her jaws. He is
+usually nimble enough to dodge between her legs, and drop out of the
+web, and, after a while, climbs up to the top, and begins over again.
+In these encounters the males are often injured; they frequently lose
+some of their legs: and I have seen one, that had only four out of his
+eight left, still standing up to his work.
+
+[Illustration: Fig. 53.]
+
+[Illustration: Fig. 54.]
+
+[Illustration: Fig. 55.]
+
+At length the male succeeds in getting under the female’s abdomen, and
+inserting his palpi into the epigynum. Fig. 55 shows the female hanging
+in the web, with the male at _a_, with his legs grasped around her
+abdomen.
+
+The habits of these spiders furnish the grounds for the popular story,
+that female spiders regularly eat the males. No doubt it occasionally
+happens, where the female is the larger of the two; but in many species
+they live together for some time in the same web, or in a nest spun for
+the purpose; in some cases, before the female has reached the adult
+state.
+
+
+LAYING EGGS.
+
+When the eggs are mature, the female proceeds, like the male, to make
+a little web, and lays the eggs on it. Then she covers them over with
+silk, forming a cocoon, in which the young remain till some time after
+they are hatched. The laying of the eggs is seldom seen; for the spider
+does it in the night, or in retired places; and often, in confinement,
+refuses to lay at all.
+
+[Illustration: Fig. 56.]
+
+The female _Drassus_, Fig. 56, spins a little web A across her nest,
+and drops the eggs E on it, as in the figure. They are soft, and mixed
+with liquid, and are discharged in one or two drops, like jelly. They
+quickly soak up the liquid, and become dry on the surface, sometimes
+adhering slightly together.
+
+After the eggs are laid, the spider covers them with silk, drawing the
+threads over them from one side to the other, and fastening them to the
+edges of the web below. When the covering is complete, she bites off
+the threads that hold the cocoon to the nest, and finishes off the
+edges with her jaws.
+
+The _Lycosidæ_ make their cocoons in the same way, but rounder, and
+showing only slightly the seam where the upper part was attached to the
+lower.
+
+[Illustration: Fig. 57.]
+
+[Illustration: Fig. 58.]
+
+The _Lycosas_ carry their cocoons about, attached to the spinnerets, as
+in Fig. 57, bumping them over the stones without injury to the young
+inside.
+
+Many spiders make their cocoons against a flat surface, where they
+remain attached by one side. _Attus mystaceus_ spins, before laying,
+a thick nest of white silk on the under side of a stone. In this she
+thickens a circular patch on the upper side, next the stone, and
+discharges her eggs upward against it, Fig. 58. They adhere, and are
+covered with white silk. I once had a spider of this species lay her
+eggs, in confinement, in a nest the under side of which had been cut
+away. Instead of completing the cocoon properly, she ate the eggs
+immediately after laying. _Epeira strix_ spins, before laying, a bunch
+of loose silk, Fig. 59. She touches her spinnerets, as in the figure on
+the left, draws them away a short distance, at the same time pressing
+upward with the hind-feet, as in the figure on the right; then moves the
+abdomen a little sidewise, and attaches the band of threads so as to
+form a loop. She keeps making these loops, turning round, at the same
+time, so as to form a rounded bunch of them, into the middle of which
+she afterwards lays the eggs, as in Fig. 60. The eggs, which are like
+a drop of jelly, are held up by the loose threads till the spider has
+time to spin under them a covering of stronger silk. _Epeira vulgaris_
+makes a similar cocoon upward, downward, or sidewise, as may be most
+convenient.
+
+[Illustration: Fig. 59.]
+
+[Illustration: Fig. 60.]
+
+Most of the _Theridiidæ_ make cocoons of loose silk, held up in the web
+by numerous threads. Some hang the cocoon by a stem, Fig. 61.
+
+The large species of _Argiope_ makes a big pear-shaped cocoon hanging
+in grass or bushes, Fig. 62. A stem of loose brown silk is first made,
+and under this the eggs attached (at any rate this had been done in one
+which had been abandoned unfinished); then a cup-shaped piece is made
+under the eggs; the bunch of loose silk is spun over all, and finally
+the paper-like shell.
+
+[Illustration: Fig. 61.]
+
+[Illustration: Fig. 62.]
+
+
+ESCAPE FROM THE COCOON.
+
+These cocoons of _Argiope_ are made late in the summer, and the young
+stay in them till the next season. Out of six hundred cocoons collected
+by Wilder in the spring, less than a quarter were entire, the rest
+being pierced, or torn in some way, by birds or insects; so that the
+spiders were saved the trouble of gnawing their way out, as they can if
+obliged to.
+
+I once noticed a small _Theridion_ gnawing at its soft cocoon, and
+found that one side had been made in this way much thinner than the
+rest of the cocoon. I put her, with the cocoon, in a bottle where I
+could watch her; and she soon commenced biting again, and kept it up
+the rest of the day. The following night the young came out.
+
+Many spiders remain by their cocoons till the young come out; but other
+species, making similar ones, go away, or die, and the young get out
+themselves when they are old enough.
+
+The young of _Micaria_ cut a smooth round hole in their paper-like
+cocoon, just large enough for them to come out one by one.
+
+
+PARASITES.
+
+The eggs in the cocoon are very liable to be eaten by parasitic
+insects. Certain wingless _Hymenoptera_ are always hunting around in the
+neighborhood of spiders’ nests, and may sometimes be seen trying to
+stick their ovipositor through a cocoon. If they succeed, their eggs
+hatch before the spiders, and eat the latter up. Other parasites lay
+eggs on the backs of young spiders, and the larva lives attached to the
+outside till it gets nearly as large as the spider itself.
+
+
+GROWTH IN THE EGG.
+
+The egg of a spider, like that of any other animal, is a cell which
+separates from the body of the female, and afterwards unites with one
+or more cells which have separated from the body of the male. This
+fertilization of the eggs probably takes place when they have reached
+their full size, and are about to be laid.
+
+After the eggs are laid and hardened, it is very easy to watch their
+development. They grow just as well anywhere else as in the cocoon,
+and, in order to see through the shell, it is only necessary to cover
+the egg to be examined, with oil, alcohol, or any liquid that will wet
+it.
+
+[Illustration: Fig. 63.]
+
+Just after it is laid, the egg looks like Fig. 63, _a_; or, if the egg
+is more opaque, only the ends of the lobes can be seen like irregular
+lumps. The first sign of growth is the division into two, Fig. 63, _b_.
+These divide into four, into eight, and so on, Fig. 63, _c_, _d_. At
+first the divisions are all alike; but at length they divide into two
+kinds,—small ones, with a dark spot in the middle, which cover the
+outside of the egg; and larger ones that occupy the inside. Fig. 63,
+_e_, shows an egg at this stage, where the large inner cells show
+through the layer of outer ones. Fig. 63, _f_, is a section of the same
+egg. The stages shown in _b_ and _c_ are seldom clearly seen, because
+the divisions are crowded together and too opaque; but _d_ and _e_
+can be watched in any common spider’s eggs. The rate of growth varies
+according to circumstances. Some eggs laid in autumn develop slowly all
+winter, while others laid in summer are ready to hatch in a fortnight.
+
+In the eggs of the long-legged cellar spider, laid in June, in about
+four or five days the young spider becomes lengthened out into a sort
+of barrel shape; and six whitish rings run half way round it, on each
+of which appears soon after a pair of little knobs, one each side, Fig.
+64, _a_. These are the six segments of the thorax, and the six pairs of
+limbs; and their gradual growth is shown in Fig. 64, _b_, _c_, _d_. In
+_a_ there is no sign of a head or abdomen, except the more opaque ends
+of the embryo; but shortly after there appears an opaque knob at one
+end, Fig. 64, _b_, under which is a pair of little knobs, such as
+appeared at first on the thoracic segments; then appear two pairs, then
+three, and so on, till there are six pairs, which mark the six segments
+of the abdomen. Up to this time, the embryo has been rolled up with the
+under side outward; but now it begins to turn, and in a day or two has
+its back outward, Fig. 64, _c_. The constriction between the thorax and
+abdomen begins about this time; and in a few days more the spider is
+ready to hatch, Fig. 64, _d_.
+
+[Illustration: Fig. 64.]
+
+
+YOUNG SPIDERS.
+
+The hatching occupies a day or two. The shell, or rather skin, cracks
+along the lines between the legs, and comes off in rags; and the spider
+slowly stretches itself, and creeps about. It is now pale and soft, and
+without any hairs or spines, and only small claws on its feet; but, in
+a few days, it gets rid of another skin, and now begins to look like a
+spider. The eyes become darker colored; marks on the thorax become more
+distinct, and a dark stripe appears across the edge of each segment of
+the abdomen. The hairs are long, and few in number, and arranged in
+rows across the abdomen and along the middle of the thorax, Fig. 65.
+Before the next moult, they usually leave the cocoon, and for a time
+live together in a web spun in common. A brood of young _Epeira_ may
+often be seen looking like a ball of wool in the top of a bush, while
+below them, connected by threads to their roost, are the skins left at
+their second moult, and farther down, also connected by threads, the
+cocoon with the first skins.
+
+[Illustration: Fig. 65.]
+
+_Dolomedes_ spins a nest in which the young live for a while after
+hatching.
+
+The young of the running spiders, _Lycosidæ_, when they come out of the
+cocoon get on their mother’s back, and are carried round by her for
+some time.
+
+Where large broods of young spiders live together, they soon begin
+to eat one another; and, if kept in confinement, one or two out of a
+cocoon full, may be raised without any other food.
+
+Wilder noticed this in _Nephila plumipes_, and believes it is the
+natural habit of young spiders, and not the result of confinement.
+
+[Illustration: Fig. 66.]
+
+[Illustration: Fig. 67.]
+
+As spiders grow larger, they have to moult from time to time. This
+process is shown by Wilder in Figs. 66, 67; and I have seen the same
+operation in _Argiope_. The spider hangs herself by a thread from the
+spinnerets to the centre of the web. The skin cracks around the thorax,
+just over the first joints of the legs; and the top part falls forward,
+being held only at the front edge. The skin of the abdomen breaks
+irregularly along the sides and back, and shrinks together in a bunch.
+The spider now hangs by a short thread from the spinnerets, and works
+to free her legs from the old skin, Fig. 66. This takes about quarter
+of an hour; and then she drops down, hanging by her spinnerets like a
+wet rag, Fig. 67.
+
+If struck while in this condition, she can do nothing, not even
+draw her legs away. After ten or fifteen minutes, the legs begin to
+strengthen; and she draws them gradually up toward her, works them up
+and down a few times, and is soon able to get into the web again.
+
+Blackwall observed nine moults in _Tegenaria civilis_, a spider that
+lives several years. Many species, and among them some of the largest,
+live only one year, hatching in the winter, leaving the cocoon in early
+summer, and laying eggs and dying in autumn. Other species seem to
+require two years for their growth; hatching in summer, passing their
+first winter half grown, growing up the next summer, but laying no eggs
+till the second spring. Some species are found adult at all seasons,
+and may live several years.
+
+After spiders have passed their second moult, they usually live in the
+same places, and follow the same habits, as the adults.
+
+The running spiders live usually on the ground, often near water, but
+some kinds in the hottest and dryest places. A few species live near
+water, and are accustomed to run about on its surface, without becoming
+wet. The _Theridiidæ_ almost all live in the shade, and always upside
+down in their webs. Some species live always in caves; and one in the
+deepest part of the Mammoth Cave has no eyes. Some spiders live only on
+high mountains, never appearing below the tree line. Some species seem
+to prefer certain kinds of plants. The horizontal branches of spruces,
+for instance, are particularly convenient for the webs of some species
+of _Theridion_. The water-spider, that builds its nest and lives on
+water-plants, has been already mentioned, and also the _Argyrodes_,
+that makes its home in the webs of other spiders. During winter immense
+numbers of spiders that have spent the summer under stones, in webs,
+and on plants, hide away among fallen leaves, and there live through
+the coldest and wettest weather, ready to move on the first warm day.
+During a thaw they often come out on the snow in great numbers.
+
+Several house spiders have probably been imported, like rats, and are
+found all over the world; while other most common species never spread
+beyond the countries where they are most abundant.
+
+
+
+
+BOOKS ABOUT SPIDERS.
+
+
+CLASSIFICATION.—Thorell’s “Genera of European Spiders,” in
+“Acta Regiæ Societatis Scientiarum Upsalensis,” 1869, and Thorell’s
+“Synonymes of European Spiders,” contain a complete history of the
+classification of the spiders of Northern Europe, with references to
+all the descriptions of genera and species, and remarks on the use of
+names and groups by different authors. The great resemblance between
+the European and North-American spider faunæ make these the most useful
+books for American students. Simon’s “Arachnides de France,” a work
+not yet completed, describes all the spiders in France, and refers to
+descriptions of the other European species. It contains tables by which
+the genus and species to which any spider belongs can be found by the
+use of a few prominent characters.
+
+    ANATOMY.—Siebold’s “Anatomy of the Invertebrata”
+      contains a good general account. Bertkau describes,
+      in “Traschel’s Archiv für Naturgeschichte,” the
+      mandibles in 1870, the respiratory-organs in 1872, and
+      the sexual organs in 1875. Oeffinger describes the
+      spinning-glands in “Archiv für Microscopische Anatomie,”
+      1860.
+
+    EMBRYOLOGY.—Claparède, Utrecht, 1862, and
+      Balbiani, in “Annales des Sciences Naturelles,” 1872,
+      describe the growth of the egg from segmentation
+      to hatching. H. Ludwig, in “Zeitschrift für
+      Wissenschaftliche Zoölogie,” 1876, gives an account of the
+      segmentation in eggs of Philodromus.
+
+    HABITS.—Walckenaer’s “Histoire Naturelle des
+      Apteres” goes over the whole subject. Blackwall, in
+      “Researches in Zoölogy,” 1834, describes the web-making
+      of Epeira, and the flying habits of spiders. Blackwall
+      also writes on habits in “The Spiders of Great Britain
+      and Ireland,” published by the Ray Society, 1864, and in
+      various papers in “Transactions of the Linnæan Society,”
+      1833 to 1841. Menge’s Lebensweise der Arachniden in
+      “Schriften der Naturforchenden Gesellschaft in Danzig,”
+      1843, goes over the whole subject, and is particularly
+      useful on the sexual habits. The same author continues
+      the subject in “Preussische Spinnen,” published by the
+      same society, beginning in 1866, and not yet finished.
+      The habits of the water-spider are described by Mr. Bell
+      in “Journal of the Linnæan Society,” 1857. The trap-door
+      spiders and their habits are described by J. T. Moggridge
+      in “Harvesting Ants and Trap-door Spiders,” published
+      by L. Reeve & Co., London, 1873, and Supplement, 1874.
+      Prof. B. G. Wilder has published several papers on the
+      habits of American spiders, the most useful of which are
+      the following: on Nephila plumipes from South Carolina,
+      “Proceedings of the Boston Society of Natural History,”
+      1865; Practical Use of Spider’s Silk in “The Galaxy,”
+      July, 1869; Habits of Epeira riparia, Moulting of Nephila
+      plumipes, and Nests of Epeira, Nephila, and Hyptiotes, in
+      “Proceedings of American Association for Advancement of
+      Science,” 1873; the Triangle Spider in “Popular Science
+      Monthly,” 1875.
+
+
+
+
+INDEX.
+
+
+    Abdomen, 12, 16.
+    Adhesive threads, 67.
+    Adult characters of spiders, 87.
+    Agalena, web of, 55.
+    Agalenidæ, 26.
+    Age of spiders, 112.
+    Air-sacs, 22.
+    Air-tubes, 12.
+    Anyphena, flying of, 84.
+    Argiope, web of, 67.
+    Argyrodes, 58.
+    Attidæ, 28.
+    Attus, flying of, 85.
+
+    Bertkau, experiments on poison of spiders, 34.
+    Blackwall, age of spiders, 112;
+      experiments on poison, 35;
+      on blowing out of threads, 80;
+      on flying spiders, 82.
+    Blind spiders, 113.
+    Blowing of threads, 80.
+    Breathing-organs, 16, 22.
+
+    Calamistrum, 73.
+    California trap-door spider, 49.
+    Care of young, 104.
+    Cave spiders, 113.
+    Ciniflonidæ, 72.
+    Classification of spiders, 11, 23.
+    Claws, 14.
+    Cobwebs, 54.
+    Cocoons, 98.
+    Colors of spiders, 17, 19.
+    Concealment of spiders, 70.
+    Copulation, 94.
+    Crab spiders, 29.
+    Cribellum, 72.
+    Curled webs, 72.
+
+    Darwin on flying spiders, 83.
+    Dictyna, spinning of, 73;
+      regular webs of, 74.
+    Distribution of spiders, 113.
+    Doleschall, experiments on poison of spiders, 34.
+    Dolomedes, nest for young, 53.
+    Dorsal groove, 17.
+    Drassidiæ, 26.
+
+    Eggs, laying, 98;
+      growth of, 105.
+    Embryo spiders, 105.
+    Epeiridæ, 31.
+    Epigynum, 92.
+    Erigone, heads of male, 88.
+    Eyes, 17.
+
+    Feet, 14.
+    Flying of spiders, 79.
+    Food of trap-door spiders, 50.
+
+    Growth of spiders, 86.
+
+    Habitats of spiders, 113.
+    Hatching, 107.
+    Heads of male spiders, 88.
+    Heart, 21.
+    Hoisting captured insects, 60.
+    Holes, 44.
+    House spiders, 114.
+
+    Intestine, 21.
+
+    Jumping spiders, 28.
+
+    Laying eggs, 98.
+    Legs, 14.
+    Linyphia communis, web of, 58.
+    Linyphia marmorata, web of, 58.
+    Lycosa, flying of, 81.
+    Lycosidæ, 27.
+
+    Mandibles, 33.
+    Maxillæ, 15.
+    Moggridge, on poison of spiders, 36;
+      on trap-door spiders, 46.
+    Moulting, 110.
+    Mouth, 59.
+    Mygalidæ, 23.
+
+    Nephila, web of, 66.
+    Nervous system, 22.
+    Nests, 52.
+    Noise by a spider, 16.
+
+    Œsophagus, 19.
+
+    Palpi, 14.
+    Palpal organs, 89.
+    Parasitic spider, 58.
+    Parasites of spiders, 104.
+    Pholcus, habit of, when frightened, 61.
+    Poison of spiders, 34.
+    Poison-glands, 23.
+
+    Regular web of Dictyna, 74.
+    Repair of webs, 67.
+    Reproduction, 94.
+    Reproductive organs, 22.
+    Round webs, 61.
+    Running spiders, 27.
+
+    Saunders, S. S., on digging of trap-door spiders, 50.
+    Sexes of spiders, 86.
+    Shooting of threads, 79.
+    Six-eyed spiders, 25.
+    Shaking web when frightened, 70.
+    Spines, 14.
+    Spinnerets, 39, 41.
+    Spinning-glands, 40.
+    Spinning-tubes, 40.
+    Spots on top of abdomen, 17.
+    Stomach, 21.
+    Sucking-stomach, 19.
+
+    Tame spiders, 37.
+    Tarantula, 36.
+    Theridion, web of, 60.
+    Theridiidæ, 30.
+    Thomisidæ, 29.
+    Thorax, 12.
+    Thread, 38, 42.
+    Tracheæ, 17.
+    Trap-door nests, 44.
+    Triangle spider, 75.
+    Tubes, 52.
+    Tying up insects, 43.
+
+    Use of spider’s web, 70.
+
+    Water spider, 53.
+    Wilder, on moulting of spiders, 110;
+      Triangle spider, 75;
+      use of spider’s silk, 70.
+    Winter habits of spiders, 113.
+
+    Young spiders, 107;
+      escape from cocoon, 103.
+
+    Zilla, web of, 65.
+
+_Electrotyped by C. J. Peters & Son, Boston, Mass._
+
+
+
+
+Transcriber’s Notes:
+
+  Underscores “_” before and after a word or phrase indicate _italics_
+    in the original text.
+  Small capitals have been converted to SOLID capitals.
+  The illustrations have been moved so they do not break up paragraphs.
+  Typographical errors have been silently corrected but other variations
+    in spelling and punctuation remain unaltered.
+
+
+
+
+
+End of the Project Gutenberg EBook of The Structure and Habits of Spiders, by 
+James Henry Emerton
+
+*** END OF THIS PROJECT GUTENBERG EBOOK STRUCTURE AND HABITS OF SPIDERS ***
+
+***** This file should be named 58111-0.txt or 58111-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/8/1/1/58111/
+
+Produced by Paul Marshall, Bryan Ness and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive/Canadian Libraries)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
