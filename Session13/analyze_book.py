@@ -1,3 +1,5 @@
+#use encoding and make sure file path is correct
+
 import random
 import string
 
@@ -16,7 +18,7 @@ def process_file(filename, skip_header):
     returns: map from each word to the number of times it appears.
     """
     hist = {} # key is word, value is frequency of word
-    fp = open(filename)
+    fp = open(filename, encoding='utf8')
 
     if skip_header:
         skip_gutenberg_header(fp)
@@ -72,7 +74,29 @@ def most_common(hist):
     hist: map from word to frequency
     returns: list of (frequency, word) pairs
     """
-    return sorted(hist.items())
+    t = [] # new list
+    for key, value in hist.items():
+        t.append((value, key))
+    
+    t.sort
+    t.reverse
+    return t
+
+def most_common_nostop(hist, excludestopwords=True):
+    """Makes a list of word-freq pairs in descending order of frequency.
+    hist: map from word to frequency
+    returns: list of (frequency, word) pairs
+    """
+    stopwords = process_file("session13/stopwords.txt", False)
+
+    t = [] 
+    for key, value in hist.items():
+        if key not in stopwords:
+            t.append((value, key))
+    
+    t.sort
+    t.reverse
+    return t
 
     # for word in h:
     #     h[word] = h.get(word, 0) + 1
@@ -85,26 +109,36 @@ def most_common(hist):
     #     freq = hist.get(0, word) + 1
     # return freq
 
-def print_most_common(hist, num=10):
+def print_most_common(hist, num=10): #10 is default value for num, it is optional to input a num arguement
     """Prints the most commons words in a histgram and their frequencies.
     hist: histogram (map from word to frequency)
     num: number of words to print
     """
-    pass
+    t = most_common(hist)
+    print('The most common words are:')
+    for freq, word in t[:num]: #find top "this many (num)" in the list
+        print(word, '\t', freq)
+#most common are stopwords like "the" and "i"
+
 
 
 def subtract(d1, d2):
     """Returns a dictionary with all keys that appear in d1 but not d2.
     d1, d2: dictionaries
     """
-    for key in dictionary:
-        if key in d1:
-            if key in d2:
-                return dictionary
-            else:
-                break
+    res = {}
+    for key in d1:
+        if key not in d2:
+            res[key] = None
+    return res
 
-
+    # dictionary = {}
+    # for key in dictionary:
+    #     if key in d1:
+    #         if key in d2:
+    #             return dictionary
+    #         else:
+    #             break
 
 def random_word(hist):
     """Chooses a random word from a histogram.
@@ -118,15 +152,15 @@ def random_word(hist):
 def main():
     hist = process_file('session13/Pride and Prejudice.txt', skip_header=True)
     print(hist)
-    # print('Total number of words:', total_words(hist))
-    # print('Number of different words:', different_words(hist))
+    print('Total number of words:', total_words(hist))
+    print('Number of different words:', different_words(hist))
 
     t = most_common(hist)
     print('The most common words are:')
     for freq, word in t[0:20]:
         print(word, '\t', freq)
 
-    # words = process_file('words.txt', skip_header=False)
+        words = process_file('words.txt', skip_header=False)
 
     # diff = subtract(hist, words)
     # print("The words in the book that aren't in the word list are:")
