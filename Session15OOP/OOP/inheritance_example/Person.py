@@ -19,7 +19,7 @@ class Person(object):
             raise ValueError
         return (datetime.date.today() - self.birthday).days
 
-    def __lt__(self, other):
+    def __lt__(self, other):        # sort uses < because overloaded
         """return True if self's name is lexicographically
            less than other's name, and False otherwise"""
         if self.lastName == other.lastName:
@@ -45,14 +45,14 @@ def main():
 
     person_list = [p1, p2, p3, p4, p5]
 
-    for e in personList:
+    for e in person_list:
         print(e)
 
-    personList.sort()
+    person_list.sort()
 
     print()
 
-    for e in personList:
+    for e in person_list:
         print(e)
 
 if __name__ == '__main__':
