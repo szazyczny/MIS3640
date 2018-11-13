@@ -126,15 +126,15 @@ def random_word(hist):
 
 def main():
     hist = process_file('session13/Pride and Prejudice.txt', skip_header=True)
-    print('Total number of words:', total_words(hist))
-    print('Number of different words:', different_words(hist))
+    # print('Total number of words:', total_words(hist))
+    # print('Number of different words:', different_words(hist))
 
-    t = most_common(hist)
+    # t = most_common(hist)
 
-    print_most_common(hist, 20)
-    print('The most common words are:')
-    for freq, word in t[0:20]:
-        print(word, '\t', freq)
+    # print_most_common(hist, 20)
+    # print('The most common words are:')
+    # for freq, word in t[0:20]:
+    #     print(word, '\t', freq)
 
     words = process_file('session13/words.txt', skip_header=False)
 
@@ -143,9 +143,9 @@ def main():
     for word in diff.keys():
         print(word, end=' ')
 
-    print("\n\nHere are some random words from the book")
-    for i in range(100):
-        print(random_word(hist), end=' ')
+    # print("\n\nHere are some random words from the book")
+    # for i in range(100):
+    #     print(random_word(hist), end=' ')
 
 
 if __name__ == '__main__':

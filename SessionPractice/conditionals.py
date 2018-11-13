@@ -26,3 +26,32 @@ elif age >= 18:
     print('adult')
 else:
     print('kid')
+
+x = 3
+y = 4
+if x==y:
+    print('x and y equal')
+else:
+    if x < y:
+        print('x less')
+    else:
+        print('x greater')
+
+# EXERCISE 1
+# BMI
+
+height = 52     # in^2
+weight = 34    # lb
+bmi = (730*(weight/(height**2))
+
+if bmi > 30:
+    print('obese')
+elif 29.9 > bmi > 25:
+    print('ow')
+elif 24.9 > bmi > 18.5:
+    print('nw')
+else:
+    print('uw')
+
+# VARIABLES
+
